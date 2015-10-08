@@ -1,0 +1,21 @@
+The artificial muscles work just like real ones, converting chemical energy into mechanical energy
+Artificial muscles have been made in the lab that are 100 times stronger than the real thing, a recent study shows.
+Two kinds of these super-strong artificial muscles can convert chemical energy into mechanical energy, making them function like natural muscles, the scientists say.
+Dr Von Howard Ebron and colleagues, from the NanoTech Institute at University of Texas at Dallas report their progress in the current issue of the journal Science.
+The artificial muscles could help usher in an entirely new breed of so-called fuel-cell muscles, the scientists say.
+These receive chemical fuel, such as hydrogen or methanol, through a circulatory system, convert it to mechanical energy, and store any unused energy for later. 
+Such muscles could be used to move robots and robotic exoskeletons, or as part of structures on air and marine vehicles that morph into different shapes. 
+"In the future, the humanoid robot sitting next to you at the bar may be drinking alcohol in order to work the next day," says Professor Ray Baughman, the research team leader and director of the NanoTech Institute. 
+One of the most successful kinds of artificial muscle consists of a stretchy material, which does not conduct electricity, sandwiched between two layers of material that do. 
+When an electric current is applied, the plus and minus charges accumulate on opposite layers of the sandwich. They are attracted to each other and squeeze down on the rubbery centre, giving the muscle its flexing ability. 
+A cord or batteries normally supply the power. But Baughman's team created two kinds of artificial muscles charged by a chemical reaction, eliminating the need for range-limiting power cords and bulky, short-lived batteries. 
+"The approach is not without challenges, but it could transform the way complex mechanical systems are built," writes Dr John Madden, an assistant professor at the University of British Columbia, in the same issue of the journal.
+Carbon nanotubes
+In the first approach, the scientists coated a sheet made of pure carbon nanotubes with platinum nanoparticles. They immersed the sheet into a solution of sulfuric acid. 
+A chemical reaction accelerated by the platinum catalyst converts each molecule of the hydrogen fuel to two protons and two electrons. 
+Repulsion between the electrons causes the nanotubes to expand. 
+In the second approach, the scientists used a special filament known as shape-memory wire, which can be trained to contract into a particular shape when heat is applied to it. 
+The team coated a straight memory wire with platinum nanoparticles and then exposed it to vapours from methanol mixed with air. 
+A chemical reaction occurred between the the alcohol and the oxygen in the air, which produced heat and caused the wire to contract. 
+Both types of muscles could be used in autonomous robots or as robotic armor worn by soldiers or astronauts to give them super-human strength, the scientists say. 
+Baughman imagines that the technology could eventually use sugars in the human body as fuel and enzymes instead of platinum to work one important artificial muscle: a heart.

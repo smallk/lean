@@ -1,0 +1,17 @@
+Circuit boards of the future could house smaller, more powerful chips made with existing technology
+Current chip-making technology could make computer processors even tinier and cheaper than first thought, researchers have discovered.
+Researchers at US technology firm IBM, who released their findings at a Silicon Valley technology conference, says the industry now has a reprieve from switching to more costly, unproven chip-making methods. 
+The commonly-used process of optical lithography has the potential to make chip circuitry more than a third as narrow as is standard in electronics today, according to IBM.
+This would mean a higher-density memory or higher memory capacity in a small package, the company says.
+It will be up to chip producers to invest in developing the technology, according to the company. 
+"Our goal is to push optical lithography as far as we can so the industry does not have to move to any expensive alternatives until absolutely necessary," says Robert Allen, a manager at IBM's Almaden Research Center in San  Jose. 
+"This result is the strongest evidence to date that the industry may have at least seven years of breathing room before any radical changes in chip-making techniques would be needed." 
+What's behind the push?
+The discovery that computer components can be smaller, cheaper, and higher capacity than once thought came amid a worldwide technology push toward more versatile and compact handheld devices. 
+IBM scientists have created the tiniest, high-quality line patterns ever made using deep-ultraviolet optical lithography, a technology currently used to  'print' circuits on chips. 
+The distinct and uniformly spaced ridges are just under 30 nanometres wide, IBM says.
+This is about one-third the size of the 90 nanometre features now in mass production and below the 32 nanometres that industry consensus held as the limit for optical lithography techniques, according to the researchers. 
+What's Moore's law?
+For decades, the semiconductor industry has relied on continually shrinking circuits to drive increases in the performance and function of chips and the products that use them, according to industry experts. 
+As chip features now approach the fundamental scale limits of individual atoms and molecules, the future of this trend of relentless improvement, referred to as Moore's law, is in jeopardy, IBM scientists say. 
+IBMs new result indicates that a 'high-index immersion' variant of lithography may provide a path for extending Moores law, buying the industry time.

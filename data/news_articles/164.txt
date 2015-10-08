@@ -1,0 +1,24 @@
+Humpback whales have structured songs, with phrases and themes. But no-one knows what they mean
+Humpback whales sing songs that contain elements of human language, according to a detailed new analysis of whale songs recorded in Hawaii.
+While researchers do not yet believe that whales have their own language per se, they discovered striking similarities between human language and the songs of humpback whales (Megaptera novaeangliae). 
+Lead researcher Ryuji Suzuki says that both humans and whales communicate by using discrete sound units that are arranged within a hierarchical structure. 
+"For example, a text consists of paragraphs, a paragraph consists of sentences, a sentence consists of clauses etc," says Suzuki, at the Massachusetts Institute of Technology.
+"They are at different levels of hierarchy, or layers.
+"In terms of humpback songs, a song session consists of songs, a song consists of themes, a theme consists of phrases, a phrase consists of units." 
+Put together, all of these elements indicate that whales have something akin to their own syntax, which normally refers to the grammatical arrangement of words within sentences. 
+The findings are published in this month's Journal of the Acoustical Society of America. 
+Suzuki and colleagues designed a computer program that converted tiny sections of whale songs into mathematical symbols. 
+They then analysed the average amount of information that was conveyed for each symbol with a technique called information theory, which quantifies complexity and structure. 
+"Information in the context of information theory does not include 'meaning', but it focuses on how rare, surprising, predictable or complex a message is," Suzuki explains. 
+Listening to whale song
+Human observers who had no previous knowledge about whale song structure grouped humpback whale recordings into complexity, redundancy and predictability. 
+The computer analysis and the human observers all found that whale songs are not only hierarchical, they convey around one bit of information per second. 
+By comparison, humans generate 10 bits of information, or variance, for every word that is spoken. 
+Each spoken vowel or syllable, for example, contains at least a few bits of data that correspond to different sounds produced by the speaker. 
+One versus 10 may not sound very impressive, but whales communicate in water, often over long distances. Water helps to transmit songs because it carries sound four times faster than air. 
+Using information theory
+Jennifer Miksis-Olds, a research associate at the University of Massachusetts at Dartmouth's School for Marine Science and Technology, is one of the few people in the world who is also using information theory to study whale songs. 
+"I do agree with the new findings. I am currently using information theory to analyse humpback whale communication, and I have come to similar conclusions," Miksis-Olds says.
+She agrees that marine mammal songs and sounds cannot be classified at present as language, but both she and Suzuki admit that they do not yet understand the meaning of whale songs and that more research is needed. 
+"This is what we know [so] little about," Suzuki says. "[Humpback whale] singers are always male, and song is believed to be a mating display. The song type evolves over the mating season, and all animals in the same population seem to share the same song type, that is, humpback whales somehow copy each other's song.
+"However, the details of this are unknown. What the songs mean is, again, unknown."

@@ -1,0 +1,18 @@
+A new form of silicon is said to be easier and cheaper to make than traditional silicon, yet works just as well. But will it be good enough for future generations of computer chips?
+Japanese researchers have made a liquid form of silicon they say might one day be sprayed onto chips with an inkjet printer.
+A team led by Masahiro Furusawa of Japan's Seiko Epson Corporation, says the new form of silicon is easier and cheaper to make than conventional silicon, yet works just as well.
+The researchers report their work today in the journal Nature. 
+The new form of silicon comprises cyclopentasiline, a silicon-based polymer that comprises five silicon atoms joined in a ring and is liquid at room temperature. 
+Ultraviolet light is used to break open the bonds of some of the rings and let the molecules reform into long, placid chains that behave like viscous oil. 
+The mixture is then diluted with a solvent like toluene, and is so fluid that it can be coated onto a surface by spinning, or even sprayed by an inkjet printer. 
+The resultant liquid film is then baked at around 500&deg;C to turn it into a hard mosaic of flat silicon crystals whose semiconductor qualities are as good as the ultrapure slabs made by conventional refining, the researchers say.
+In a review of the work in Nature, Associate Professor Lisa Rosenberg, a Canadian chemist at the University of Victoria in British Columbia, says the new  process has some drawbacks, as it still has to rigorously exclude air and water.
+But she says the ability to make silicon film by inkjet is a clear breakthrough. 
+"[It] will not provide the resolution necessary to pattern a high-density integrated circuit and therefore make a computer chip," she says. 
+"But what it will certainly allow is the remarkably straightforward generation of simple, cheap and flexible circuits for displays, as well as a range of other applications - solar cells, x-ray detections and multi-analyte chemical sensor included."
+Has silicon had its chips?
+Analysts have long predicted the demise of silicon as a chip component due to the costs of purifying and processing it.
+This usually entails taking highly purified natural silicon, which occurs in the mineral silica, and heating it in a vacuum to create a mist of free silicon atoms that then condenses onto a surface. 
+This refining requires conditions to be ultra-clean, as an intruding speck of dust or thimbleful of unwanted gas molecules can ruin the outcome.
+The complexity and cost have led to research into alternatives to silicon.
+The Japanese team's method doesn't need high vacuums, high temperatures or ultra-clean environments.

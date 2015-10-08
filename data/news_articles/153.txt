@@ -1,0 +1,15 @@
+The technique may one-day be used to search earthquake rubble for survivors, the researchers say
+A laser-like beam of light shone at a unique solid makes the material appear to disappear, according to a new study. 
+The effect, reported in a recent issue of the journal Nature Materials, occurs at infrared light wavelengths, so it can't be seen with the human eye. 
+"[But] if it worked in the visible light with molecules that make up your hand, when the laser hit your hand, your hand would go transparent," says team member Professor Chris Phillips, a physicist at Imperial College London.
+"And then if you turned the laser up a little more, the scene you'd see through your hand would become brighter," as the effect amplifies light in the beam, he says. 
+Phillips and his colleagues from the University of Neuch&acirc;tel, Switzerland, think the method could one day work in visible light and lead to new technologies that help see through rubble to search for victims at a disaster site or observe internal body parts obscured by bone. 
+The scientists accomplished their feat with materials used to make semiconductor chips.
+Normally, electrons that make up atoms in these materials interact with light beams in a benign way. 
+But Phillips and his team re-engineered the material to contain artificial atoms, specially patterned crystals a few billionths of a metre long. 
+Because the atoms are artificial, the scientists could adjust the activity of the electrons, which have wavelike characteristics. 
+When the light beam was shone onto the material, it influenced the wavelike patterns of the electrons inside the artificial atoms so that they cancelled each other out and created a new, transparent material that was half matter and half light. 
+The scientists went on to amplify the light beam, even though 80% of the artificial atoms stayed in a state of so-called low excitation. 
+This contradicts a theory posed by Albert Einstein that says in order to amplify the light in a laser beam, the majority of the atoms must be in state of high excitation. 
+"They have shown this can now be implemented in a solid-state medium, which could be very important for more practical applications," says Lene Vestergaard Hau, professor of applied physics at Harvard University. 
+In the future, the researchers aim to become better at controlling and amplifying the light beam so that they may not need a specially patterned structure to make the see-through effect work.

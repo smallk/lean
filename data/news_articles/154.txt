@@ -1,0 +1,11 @@
+The 2002 launch: scramjet technology could one-day be used in planes that fly from London to Sydney in two hours, say the researchers
+A new scramjet engine, shaped like a bullet, will be tested in the Australian desert tomorrow by an international team of scientists that hopes it will be more efficient than previous designs.
+Australian researchers from the HyShot Flight Program at the University of Queensland, will test the new scramjet, developed by a British defence technology company, QinetiQ.
+The experiment is to be carried out on Australian defence property at Woomera in South Australia this Friday local time and is also sponsored by the US Air Force and the Canadian Air Force.
+A scramjet (supersonic combustion ramjet) operates at speeds greater than Mach 5, or five times the speed of sound. 
+It is able to deliver a sustained thrust at hypersonic speed by rapidly sucking in oxygen and burning hydrogen fuel, releasing steam as exhaust.
+The HyShot team carried out the world's first successful scramjet test flight at Woomera in 2002 with a University of Queensland-designed engine.
+That original design had a two-dimensional wedge-shaped air intake and a rectangular-shaped combustor, says Associate Professor Michael Smart, who designs scramjets with the HyShot team.
+He says the new scramjet has a three-dimensional bullet-shaped intake with an elliptical shaped combustor.
+And the shape of the engine affects how efficiently air is scooped up.
+"It's a ram effect and there are lots of different shapes you can use to try to push that air down through the engine, so we're just trying out different ones," he told ABC Science Online by phone from the Woomera test site.

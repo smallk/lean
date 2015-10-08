@@ -1,0 +1,24 @@
+Soil harbours bacteria that contain antibiotic resistance genes. So is this where hospital superbugs get their protective genes from?
+Bacteria in dirt may be 'born' with a resistance to antibiotics, which could help shed light on the problem of drug-defying superbugs, Canadian researchers say.
+They tested hundreds of different bacteria found in soil and discovered that every one had some resistance to antibiotics, meaning they had evolved a mechanism for evading the effects of the drugs. 
+The findings, published today in the journal Science, could help to explain why bacteria so quickly develop resistance to antibiotics, and why drug companies must constantly develop new ones. 
+"It explains where these things come from in the first place," says Dr Gerry Wright, of Ontario's McMaster University.
+"This work could prove to be extremely valuable to the drug development process." 
+Wright's team dug up 480 strains of streptomyces bacteria and tested them for resistance to various antibiotics. 
+"Without exception, every strain ... was found to be multi-drug resistant to seven or eight antibiotics on average, with two strains being resistant to 15 of 21 drugs," the scientists write. 
+A logical place to start
+These particular bacteria do not infect people, but Wright believes the findings almost certainly apply to other species of microbes. 
+"It turns out that streptomyces make lots of antibiotics," Wright says. "Anything that ends in 'mycin' comes from streptomycin: vancomycin, streptomycin." 
+That was why they chose this group of bacteria. 
+"We were curious to see where these things might come from in the first place, so it seemed that was a logical place to start. I expect lots of these [drug-resistant] genes are peppered all over the microbial community," Wright says. 
+The scientists exposed the bacteria to known antibiotics and then searched for genes that were activated when the microbes survived. 
+"We found old mechanisms and new mechanisms," Wright says. 
+"We found a brand-new resistance mechanism to an antibiotic called telithromycin," he says, referring to Aventis' drug Ketek, which has only recently been approved in some countries. 
+Ketek was designed to overcome resistance to antibiotics, but one of the bacteria Wright tested evolved a way to prevent it from working. 
+Developing resistance
+Almost as soon as penicillin was introduced in the 1940s, bacteria began to develop resistance to its effects, prompting researchers to develop many new generations of antibiotics. 
+But their overuse and misuse have helped fuel the rise of drug-resistant superbugs.
+The US Centers for Disease Control and Prevention says 70% of infections that people get while in the hospital are resistant to at least one antibiotic. 
+Wright says his findings do not get doctors off the hook. He says they still must prescribe antibiotics only when they are needed, and stress to patients the need to use them properly. 
+Soil bacteria live in a constant kind of arms race, making antibiotics to protect themselves against other bacteria, and then evolving antibiotic resistance to evade the antibiotics made by other bacteria. 
+"Their coping tactics may be able to give us a glimpse into the future of clinical resistance to antibiotics," Wright says.

@@ -1,0 +1,39 @@
+Drug research company Parexel carried out a drug trial that went horribly wrong. Could it happen in Australia
+As doctors scramble to understand what caused the catastrophic reaction to a drug given in a UK trial, researchers say the possibility of something similar happening in Australia can't be ruled out.
+British experts are baffled about why six healthy volunteers suffered a massive reaction shortly after being given the antibody drug TGN1412 last week.
+Two remain critically ill and four are seriously ill. Two others who received a placebo escaped harm.
+It's believed differences between a cell-signalling protein in humans and animals may explain the unexpectedly severe reaction in the previously healthy young men, who were paid for their participation.
+They were the first humans to receive the drug, designed to treat leukaemia and chronic inflammation disorders. 
+Australian clinical trials experts say we should learn a lesson from the UK experience and consider more sophisticated ways of trialling potentially dangerous new drugs.
+Dr Chris Karapetis, a principal investigator in several clinical trials in oncology at Flinders Medical Centre in Adelaide, says Australian trials are subject to rigorous ethical and scientific scrutiny but risks remain.
+"Obviously you cannot rule out the possibility of there being an adverse reaction in a trial of this nature," he says.
+"One of the things that is crucial ... is that all potential risks are explained to patients, and when it's a new drug, the risk that there could be a side effect that develops that's unknown."
+What went wrong?
+Doctors say they have never before seen a reaction such as occurred during the trial of TGN1412, made by privately owned German company TeGenero AG.
+US drug research company Parexel was running the trial on behalf of TeGenero.
+Dr Thomas Hanke, chief scientific officer at TeGenero, says previous tests on animals hadn't produced drug related adverse events or drug-related deaths.
+TGN1412 belongs to a class of drugs known as monoclonal antibodies, which specifically bind to target molecules. TGN1412 targets an immune system protein called CD28.
+CD28 is a protein on the surface of some white blood cells that plays a part in activating them for an immune response.
+Hanke says TGN1412 was designed to activate its target protein - rather than blocking it as many antibody drugs do.
+Dr David Glover, a UK drug industry consultant with extensive experience of antibody treatments, says the protein the drug targets may not be the same in all species. 
+"I suspect the antibody was designed to work against human CD28 and because it was designed to work best in humans its performance in different animals may fall short of what you might have expected in humans," he says. 
+"That is why the animal testing may have falsely provided reassuring results. It could be one of the explanations."
+What can Australia do?
+Australian clinical pharmacologist Professor Paul Rolan of the University of Adelaide has introduced 70 new molecules into humans during 20 years of clinical trials.
+He says TGN1412 is different to many other drugs because it has a very specific target in the body.
+"Such 'magic bullet' drugs can be very specific to humans and may not cause adverse reactions in animals used in preclinical trials," he says.
+Rolan says the way we do trials may need to become more sophisticated as we search for more specific and powerful drugs.
+Rather than testing these sorts of drugs in animals we may have to use animals that have been genetically modified to make them more like humans.
+He believes Australia has the expertise to do these sort of trials.
+The Garvan Institute of Medical Research in Sydney says it is already using these methods.
+In a statement, the Garvan says Australian clinical trials have "a fantastic record".
+"It is absolutely vital that both volunteers and patients continue to agree to participate in clinical trials for new medicines," it says.
+What's the future for antibody treatments?
+Glover says no one should lose sight of the benefits of antibody drugs.
+He says the focus shouldn't be on antibody treatments in general, or stopping clinical trials. 
+The breast cancer drug Herceptin, made by the Swiss pharmaceutical Roche, is an antibody treatment.
+It attaches itself to the HER2 receptor on the cancer cells and blocks them from receiving growth signal. 
+Eighteen antibody products have been approved for sale and their combined worldwide sales reached $US14 billion (A$19.3 billion) last year.
+But Glover says trials of drugs targeting the protein CD28 should be reviewed.
+"Should we stop doing trials that are directed against the target CD28? I think the answer is yes, until more is known about what it going on," he says. 
+The UK's Medicines and Healthcare Products Regulatory Agency is conducting an enquiry into what went wrong and results are expected in the coming weeks.

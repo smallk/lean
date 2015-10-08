@@ -1,0 +1,16 @@
+Scientists have rescued a mouse immune system that was overwhelmed by a systemic blood infection. But will this work in humans?
+Scientists have discovered how infections that invade the whole body, like malaria, disable the immune system and prevent it from detecting and fighting other microorganisms.
+The Australian and German researchers say the discovery may help scientists to develop vaccines that restore immunity in people with systemic or 'whole body' infections. 
+They publish their research today online in the journal Nature Immunology.
+The immune response is alerted when specialised sentries of the immune system, dendritic cells, detect a virus or bacteria.
+They alert the immune system by capturing infected cells and displaying fragments or antigens of the pathogen on their surface in a process called cross-presentation.  
+Lead researcher Dr Jose Villadangos, an immunologist from the Walter and Eliza Institute of Medical Research in Melbourne, says systemic infections such as malaria or sepsis, a bacterial infection of the blood, overstimulate dendritic cells.
+This results in the immune system's critical alarm system shutting down.
+"This doesn't occur in local infections because only a few dendritic cells are involved," Villadangos says.
+"But in the case of malaria infections and sepsis, dendritic cells throughout the body are concentrated on alerting the immune system, which prevents them from detecting and responding to any new infections." 
+A new type of vaccine?
+Villadangos and colleagues managed to restore immunity in mice with an immune system compromised by sepsis.
+They injected them with a live vaccine made of dendritic cells that had been exposed to a secondary virus in the laboratory, and subsequently displayed antigens of that virus. 
+Villadangos says the findings show the missing link in the immunosupressed animal is the capacity of the dendritic cells to display the antigens of new viruses. 
+"We should be able to take dendritic cells from a patient with sepsis or malaria and expose them to antigens of the virus of a secondary infection and inject them back into the patient.
+"This strategy is already being used in the development of anti-cancer vaccines. We are yet to find out if will work against secondary infections in humans with a systemic infection," Villadangos says.

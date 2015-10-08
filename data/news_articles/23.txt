@@ -1,0 +1,18 @@
+Navigating bubble wrap: part of research that may one day help to design space exploration robots
+Crayfish don't just blunder around in the dark bouncing off rocks but use a sophisticated sense of touch to form detailed mental images of their surroundings, an Australian researcher says.
+Professor David Macmillan of the University of Melbourne has previously piqued the interest of NASA, which has applied his earlier work on the crayfish, or yabby (Cherax destructor), to developing tiny space exploration robots.
+Macmillan says just as humans looking for the bathroom in the middle of the night grope around with their hands, yabbies in dark or murky waters use their antennae to orientate themselves.
+They also use chemosensory receptors all over their bodies that allow them to detect chemicals in the water from food, mates or predators.
+"We're trying to find out how crustaceans work out what their world is like," he says.
+Yabbies are not renowned for having large brains, but Macmillan says his research, published in the current issue of the Journal of Experimental Biology, shows the crustaceans have an acute sense of touch that helps them to get around.
+"People have made lots of assumptions that they're not that smart and they don't know what's going on out there but increasingly [we're] finding that they actually put together some pretty sophisticated pictures," he says.
+Bubble wrap or sandpaper?
+In the study Macmillan and colleagues put the crayfish into arenas containing different types of surfaces and structures including bubble wrap and sandpaper.
+"Basically we asked the animals to tell us whether they could tell the difference," he says.
+"What we're seeing is that they change their behaviour according to the texture of surfaces."
+He says his team is the first to demonstrate that yabbies can discriminate between textures.
+Crayfish in space
+Macmillan's research feeds into the field of biomimetics, where designs found in nature are used in robotics.
+A few years ago, he travelled to the US where he met NASA scientists developing miniature, independently moving robots to discuss his work on how yabbies move their tails.
+Macmillan has just completed more work suggesting yabbies can analyse particular spaces before they enter them, and can even recognise places they've been before, and other crayfish.
+"We now think we've got evidence that they can do very sophisticated analyses on a space before they even get into it, they can detect vibrations and they can remember what they've experienced before," he says.

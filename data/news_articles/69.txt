@@ -1,0 +1,21 @@
+A new type of pulsar that spits out radio waves intermittently, rather than regularly, has been discovered
+Scientists have discovered a strange new type of pulsar that emits intermittent bursts of radio waves. 
+And there are lots of them out there. 
+In a paper in the journal Nature today, an international team of astronomers estimates there could be up to half a million of these weird flashing 'dead' stars.
+The scientists are calling them RRATs, or rotating radio transients.
+Unlike ordinary pulsars, which can emit regular pulses of radio waves, RRATs emit short millisecond bursts of radio waves in between dark spells that may last several hours. 
+This makes them very difficult to find, says co-author Dr Dick Manchester, from CSIRO's Australia Telescope National Facility, who has been hunting pulsars with the Parkes Radio Telescope for the past seven years.
+"These things are so sporadic that most searches, like the survey we conducted, would have missed them. We only looked at each patch of the sky for 35 minutes so we were lucky to find any," he says.
+"This means there must be a huge population out there, many more than ordinary pulsars." 
+While there are about 100,000 ordinary pulsars in the Milky Way, astronomers estimate there are at least 400,000 RRATs.
+This latest research could mean that scientists will have to come up with new ideas for the way so many RRATs have formed. 
+Birth of a pulsar
+Pulsars are believed to be formed in supernovae, the cataclysmic explosion that signals the end of the life of a massive star.
+As the core collapses to a superdense neutron star it spins very rapidly, sending a beam of radiation that sweeps out like a searchlight.
+If the beam is pointing towards Earth each 'pulse' can be detected, hence the name pulsar.
+"We knew that RRATs were pulsars, even though the pulses were isolated, just a single burst and then they might shut up for an hour or two," says Manchester.
+"But it was only by timing them over a four year period that it was realised that they had much longer periods than normal and that they were slowing down."
+Magnetic, reborn or just plain weird?
+The paper suggests that RRATs are young super magnetic pulsars barely 100,000 years old.
+But Manchester is not ruling out the possibility that they may be 'zombies', old pulsars suddenly brought back to life by growing magnetic fields or ordinary pulsars radiating in an unusual way.
+"That's what makes it exciting," he says. "There are so many possibilities."

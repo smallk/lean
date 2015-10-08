@@ -1,0 +1,24 @@
+Up to 25% of a car's fuel goes on running the air-conditioning
+The average family car may one day have fans built into the seats to cool you down as you drive, suggests US government research.
+The cooled seats could also cut your fuel bill by more than 7%, say the researchers, fuel that would otherwise be used to run the car's air-conditioning.
+"Ventilated seats keep drivers and passengers cooler, so they need less air-conditioning to be comfortable," says the research team, led by John Rugh at the US Department of Energy's National Renewable Energy Laboratory.
+The researchers have been trying to reduce fuel consumption for air-conditioning in cars and trucks.
+Using a mannequin that breathes and sweats, the researchers tested the effect of a specially constructed seat, containing two fans that pull air from the seat surface and out from underneath the seat.
+Their mannequin, called ADAM (ADvanced Automotive Mannequin), together with physiological and psychological models, enabled the researchers to measure how the cool seats increases "thermal comfort" and reduces the need for air-conditioning.
+"If all passenger vehicles had ventilated seats, we estimate that there could be a 7.5% reduction in national air-conditioning fuel use," the researchers say.
+Real-world savings?
+Australian engineer, Associate Professor Eric Hu of Deakin University in Melbourne, welcomes the research.
+"Up to 25% of the engine power is used for air-conditioning purposes," says Hu, who works on reducing fuel use associated with vehicle air-conditioning.
+While the cool seats might make people feel more comfortable, he doesn't think the researchers' estimate of a 7.5% reduction in fuel consumption will make much difference in the real world.
+"Certainly savings are a good thing, but I'm not too sure you can say it's significant," he says.
+Hu says it would be easy to achieve the 7.5% savings with good seals, which would prevent the loss of cool air from windows and doors.
+And if people don't close their windows tightly, he says the 7.5% savings could easily be blown away.
+But Hu says research like this is going in the right direction.
+The amount of engine power used by air-conditioning translates to at least 25% of fuel use and 25% of emissions, Hu says. And until recently, he says, this problem has not been taken seriously.
+For example, he says air-conditioning is not considered when the fuel economy of new cars is tested in Australia.
+Driving uphill
+Hu's current research, funded by the Australian Research Council and air-conditioning company Air International, is looking at how air-conditioning affects fuel use under different driving conditions.
+For example, he has a theory that when a car full of passengers is driving uphill the engine can become overloaded and burn fuel inefficiently.
+This means air-conditioning would use even more fuel and worsen pollution.
+Hu is hoping to develop a smart energy management system for cars that could cut off air-conditioning when the car is going uphill and let it kick in when the car is going downhill.
+"We want to co-ordinate the engine load and the air-conditioning load," he says. "Currently these two systems are not talking to each other."

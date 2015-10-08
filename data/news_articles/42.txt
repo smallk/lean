@@ -1,0 +1,12 @@
+The latest computer virus, which arrives by email, is ready to delete your files this Friday
+A destructive worm posing as a pornographic email may already have infected hundreds of thousands of computers and could erase many everyday files on 3 February, security experts warn. 
+The Kama Sutra worm, which targets Microsoft, Adobe and ZIP files, is a threat because many users will not know the virus has infected their computers until it is too late, security experts say. 
+They also estimate that the worm, which spreads by emailing itself to addresses in an infected computer's mailbox, may already have slipped onto 275,000 to 500,000 machines and is now simply waiting to obliterate files on Friday.
+The virus, also known as Grew.A or MyWife, tricks users by appearing as an email attachment with subject lines such as Hot Movie, give me a kiss and Miss Lebanon 2006.
+Some variations refer to the ancient Kama Sutra guide to elaborate sexual positions to attract attention and convince victims to open the email. 
+"It claims to be a movie or picture with some sort of sexual content," says Johannes Ullrich, chief research officer at the nonprofit SANS Institute research group. "That is how it tricks you." 
+The virus causes a keyboard and mouse to freeze. It then disables anti-virus programs when the computer is restarted, leaving a machine vulnerable, says Ken Dunham, rapid response director at VeriSign Corp's  security unit iDefense. 
+The virus mainly has infected computers of vulnerable consumers and small businesses, which are far less likely to have up-to-date security software, he says. 
+The Kama Sutra worm also stands out because its primary purpose is to destroy files rather than to seek financial gain or to take control of a computer, security experts say. 
+Dunham says any users who suspect they may have triggered the worm should reinstall an anti-virus program and make sure the virus has been removed. 
+"It is already under way and will be activated unless people get removal tools," he says. "If you have opened an email and your computer froze up, you should be very concerned."

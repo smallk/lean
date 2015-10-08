@@ -1,0 +1,26 @@
+There's more to the flow of water down terraces like these than meets the mathematician's eye
+A mathematical equation that attempts to model the distribution of water in rice terraces has convinced one researcher that the Western notion of maths has a lot to learn from other cultures.
+Mathematician Willy Alangui of the University of the Philippines Baguio spoke about his attempt to model rice terrace irrigation this week at the Third International Conference on Ethnomathematics in Auckland, New Zealand.
+Alangui has been studying irrigation in a network of rice paddy terraces built by the indigenous Kankanaey people of the Northern Philippines.
+"I'm trying to understand how water is efficiently distributed in all the paddies," says Alangui.
+The paddies are contained by stone walls and farmers ensure everyone gets enough water by opening and closing inlets and outlets as the water flows from the top terraces to the bottom.
+Alangui developed an equation to model the dynamics of water distribution.
+The model took account of variables such as the amount of water flowing into the system, the rate of evaporation and the size and elevation of the paddies.
+"For me as a mathematician it explained nicely the dynamics that goes on in the distribution of water in the whole network of paddies," he says.
+But when he went back to validate the variables he had used with the Kankanaey people he found his model was seriously flawed.
+It failed to account for one major factor that governs the Kankanaey rice irrigation system: the ethic of co-operation.
+The social responsibility factor
+Alangui found out the system depended on a notion of "social responsibility". 
+Even when water was scarce, people upstream shared water equally with those downstream because they had helped to build the irrigation system in the first place.
+This told him the system would fail if the paddy owner at the top of the hill took more water than was fair.
+Alangui says the failure of his model to capture the ethical dimension of the irrigation system told him that he needed to broaden his perspective as a mathematician.
+In the PhD thesis, Alangui will try and modify the model to include this ethic although, he says, it may not be possible.
+"My mathematics may be deficient," he says. "It's not the be all and end all of everything. It's just one way of looking at the world."
+Ethnomathematics
+Alangui thinks Western mathematics has a lot to learn from other cultures, hence his interest in ethnomathematics, the connections between mathematics and culture.
+He says Western mathematics has become "powerful" and "arrogant" as a field and marginalised other perspectives.
+Maori culture, for example, has a different concept of numbers, says Alangui. While western culture uses the number 'three' as an adjective, in for example the phrase 'three glasses', Maori talk of glasses interacting with each other, and as being in the act of 'three-ing'.
+In Kankanaey culture, he says, there is no concept of a circle as a static object, defined by a centre and a radius. Rather, there is the concept of 'encircling', in which a circle is defined as point moving around a circumference.
+Alangui says mathematicians should ask why the static version of numbers or circles has come to dominate. Interrogating long-held assumptions like this could lead to different and useful concepts in maths, he says.
+He says hyperbolic and elliptic geometry were developed when mathematicians questioned the assumption of Euclidian geometry that two parallel lines never meet.
+Alangui is a member of the Kankanaey people and has a masters degree in pure maths.

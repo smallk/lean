@@ -1,0 +1,117 @@
+# Copyright (c) 2015, Georgia Tech Research Institute
+# All rights reserved.
+#
+# This unpublished material is the property of the Georgia Tech
+# Research Institute and is protected under copyright law.
+# The methods and techniques described herein are considered
+# trade secrets and/or confidential. Reproduction or distribution,
+# in whole or in part, is forbidden except by the express written
+# permission of the Georgia Tech Research Institute.
+# ---
+
+###############################################################################
+#                                                                             #
+#                      GENERAL CONFIGURATION DETAILS                          #
+#                                                                             #
+#     Configure DocIndexer to processes Twitter JSON data contained in        #
+#     flat files.                                                             #
+#                                                                             #
+###############################################################################
+
+# [REQUIRED] Specify the full path to the LEAN repository's 'config' folder.
+# This folder contains default stopword and spelling files, among other items.
+# Items in this folder are loaded automatically at startup.
+
+config_path: /path/to/lean/config
+
+# [REQUIRED] Write the Lucene index to this folder.  If this folder does not
+# exist it will be created.
+
+outdir: /path/to/index
+
+# [REQUIRED] Specify the analyzer to use.  An analyzer consists of a tokenizer
+# and a chain of zero or more token filters.  The filters perform various
+# transformations on the tokens as they pass down the chain.  The first four
+# analyzers are provided by Lucene and are not customizable; the 'custom'
+# analyzers can be easily altered and recompiled.
+
+# org.apache.lucene.analysis.core.WhitespaceAnalyzer      Split text on whitespace only
+# org.apache.lucene.analysis.standard.StandardAnalyzer    Lucene's default text analyzer
+# org.apache.lucene.analysis.standard.ClassicAnalyzer     Lucene's StandardAnalyzer pre v3.1
+# org.apache.lucene.analysis.en.EnglishAnalyzer           Lucene's English-specific text analyzer
+# analyzers.FormalAnalyzer                                GTRI analyzer for formal documents
+# twitter.TwitterAnalyzer                                 GTRI custom analyzer for Twitter
+
+analyzer: twitter.TwitterAnalyzer
+
+# [REQUIRED] Specify the full path to the root folder of the file tree to be
+# analyzed.  DocIndexer will begin at this root folder and recursively process
+# all documents in supported formats throughout the tree.
+
+indir: /path/to/input_folder_root
+
+# [OPTIONAL] Specify the absolute path to a 'user' stopword file.  Use this
+# file to give DocIndexer additional stopwords that should be removed from the
+# token stream, but that are not contained in the default stopword list
+# (found in the config folder).  This file can also be used to remove specific
+# tokens that may not be of interest for a given data set.  The file name does
+# not have to be 'user_stopwords.txt'.  To NOT use a user stopword file,
+# comment the following line.
+
+#user_stopword_file: /path/to/user_stopwords.txt
+
+# [OPTIONAL] Specify the absolute path to a 'user' spelling file.  Use this
+# file to give DocIndexer additional spelling corrections that should be
+# performed on the token stream, but that are not contained in the default list
+# of spelling corrections (found in the config folder).  This file can be used
+# to remove or 'normalize' domain-specific slang.  The file name does not have
+# to be 'user_spelling.txt'.  To NOT use a user spelling file,
+# comment the next line.
+
+#user_spelling_file: /path/to/user_spelling.txt
+
+
+###############################################################################
+#                                                                             #
+#                            Boolean flags (Yes/No)                           #
+#                                                                             #
+###############################################################################
+
+# [OPTIONAL] Whether to ignore retweets.  Retweets have "RT" as the first
+# token in the "text" field.
+
+IGNORE_RETWEETS: No
+
+# [OPTIONAL] Whether to ignore hashtags, i.e. tokens such as #justinbieber.
+# NOTE: this will ignore only those hashtags identified with the '#' tag by
+# the part-of-speech tagger.  Hashtags used as proper nouns (^) or in other 
+# meaningful ways will be kept.
+
+IGNORE_HASHTAGS: No
+
+# [OPTIONAL] Whether to ignore URLs and e-mail addresses.  Enabling this flag
+# removes all tokens having a 'U' tag.
+
+IGNORE_URLS: No
+
+# [OPTIONAL] Whether to ignore at-mentions, i.e. long strings of numbers that
+# begin with an '@' symbol.  Enabling this flag removes all tokens having an
+# '@' tag.
+
+IGNORE_AT_MENTIONS: No
+
+# [OPTIONAL] Whether to ignore numbers, dates, times, etc.  Enabling this flag
+# removes all tokens having a '$' tag.
+
+IGNORE_NUMERALS: No
+
+# [OPTIONAL] Whether to disable stemming in the CUSTOM analyzers.
+
+DISABLE_STEMMING: No
+
+# [OPTIONAL] Whether to disable all filters in the CUSTOM analyzers.  If
+# this option is selected, tokenization is the only operation performed on the
+# data. Use this option if you want to see the full set of tokens that emerge
+# from the tokenizer.
+
+DISABLE_CUSTOM_FILTERS: No

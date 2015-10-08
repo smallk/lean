@@ -1,0 +1,11 @@
+Pigeons will soon be equipped with a mobile phone to text their air pollution reports back to us on the ground
+A flock of pigeons will monitor the sky for pollution then beam back their findings to a special pigeon blog, scientists say.
+The 20 pigeons will carry a GPS satellite tracking receiver, air pollution sensors and a basic mobile phone, according to a report in New Scientist magazine.
+The phone will allow text messages on air quality to be beamed back in real time to a website.
+Miniature cameras slung around the pigeons' necks will also post aerial pictures.
+The idea is the brainchild of researcher Beatriz da Costa, an assistant professor at the University of California at Irvine, and two of her students.
+They have built a prototype of the pigeons' equipment, containing a mobile phone circuit board with SIM card and communication chips, a GPS receiver, and sensors capable of detecting carbon monoxide and nitrogen dioxide. 
+"We are combining an air pollution sensor with a homemade [mobilephone]," da Costa told New Scientist.
+The team is planning to squeeze all the components onto a single board small enough for the birds to carry in a backpack, the report says. 
+The pigeons will take to the air at the Inter-Society for Electronic Arts annual symposium in San Jose in August. 
+The data they send back will be displayed on the blog in the form of an interactive map.

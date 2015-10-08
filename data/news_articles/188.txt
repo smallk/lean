@@ -1,0 +1,16 @@
+If you catch bird flu then shop at your local market, the stallholder might need antiviral drugs as well as you
+Giving antiviral drugs both as treatment to infected people and as prophylaxis to their close contacts provides the best chance of minimising the impact of a bird flu pandemic, new research suggests.
+The Australian study found targeted prophylaxis would delay the onset of a pandemic, buying time to hopefully develop and distribute a vaccine.
+But a treatment-based strategy would not significantly delay the onset of the disease or reduce the attack rate, the federal government-funded study found.
+The study, by Dr James McCaw and Dr Jodie McVernon from the University of Melbourne, may be considered by health authorities if avian influenza A (H5N1) reaches Australia.
+McCaw, a theoretical physicist, and McVernon, a paediatrician and research fellow, used a mathematical model to determine the optimal use of Australia's stockpile of 4 million doses of antiviral drugs during a pandemic.
+The model examines differences between using antivirals as treatment once a person has bird flu to reduce their chance of dying and of transmission, and using drugs as post-exposure prophylaxis for those who have come into contact with an infectious person.
+"The model says every time a new person becomes ill, 20 contacts need to be tracked down and given antivirals," McCaw told the Australasian Society of Infectious Diseases annual scientific meeting in New Zealand this week.
+"Research indicates that on average the typical person will have 20 close contacts with people over a few days, 85% being relatives, friends and work colleagues and 15% being others such as shopkeepers and the bus driver."
+The researchers defined a close contact as someone who had a two-way conversation within a metre of an infected person.
+Mild or catastrophic?
+Authorities won't know whether a pandemic will be mild or catastrophic until it hits, McCaw says.
+The model indicates that if mild, treatment of those infected will reduce the number of people who become ill and slow transmission, and prophylaxis will delay the pandemic by several months, buying time to develop a vaccine.
+"For a severe pandemic, the model shows that treatment fails to reduce the overall number of people becoming sick. It has benefits on an individual level by presumably reducing an individual's mortality but not at a population level," McCaw says.
+"But prophylaxis continues to work by delaying exposure."
+The federal Department of Health and Ageing and the National Health and Medical Research Council have contributed to this research as part of pandemic preparedness planning.

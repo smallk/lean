@@ -1,0 +1,27 @@
+The new fridge magnets will be aware of others on the fridge and communicate with them
+Fridge magnets may one day be able to fix bad grammar and change the words to something they think is more appropriate.
+"The idea is that each magnet is aware of the other magnets on the fridge and they transmit information between each other," says Australian digital artist Pierre Proske.
+Proske is working with researchers at the Future Applications Lab of the Viktoria Institute in Sweden to develop the intelligent fridge magnets.
+Details will be presented at the  International Conference on Intelligent User Interfaces in Sydney later this month.
+Each fridge magnet consists of 16-character liquid crystal display, rather than a magnetic strip with a printed word, Proske says.
+The magnets can randomly generate a word, categorise that word (as a noun, verb, adjective or adverb) and transmit the category to any words they are placed next to.
+As you compose a poem, placing words in grammatical order, the magnets communicate with each other to learn the grammar rules you are using.
+Once they are 'trained', the magnets can change the words they are displaying to substitute words that don't fit the established grammar rules, like an autocorrect function.
+"So the actual word that's associated with each magnet can change depending on the way in which it's aligned," says Proske.
+Reshuffling gives you a new word
+Luckily if you don't like the word the magnet substitutes, you can always take the magnet off the fridge and shake it to reshuffle and get a new word.
+And the plan is for you to be able to reset the magnets completely so they forget all their grammar rules.
+Of course, the magnets rely on being taught good grammar in the first place.
+"Someone could instil bad grammar if they wanted to," says Proske.
+But he doesn't want to take all the fun for those kitchen-based party-goers that like making up crazy sentences on fridges.
+He says the system will only worry about which words can be immediately next to each other and won't be too strict about the grammar of the sentence as a whole.
+"This was deliberate to keep the sentences a little more poetic," says Proske.
+"The idea is it is still fridge poetry. We don't want to create sentences that make total sense." 
+Changing words to fit themes
+The team also hopes that the magnets will be able to substitute words in response to stimuli other than bad grammar.
+For example, someone might have a set of magnets on the home fridge and a set of magnets on the work fridge that can communicate via wireless internet, says Proske.
+If the magnets at home read, for example, "Crazy kangaroos dream wildly", those at work might change to "Drunk wallabies laze around the pool", in keeping with the Australian theme.
+The team also suggest it might be interesting to apply their ideas to Scrabble and crosswords but says further details on this are a subject for further investigation.
+Proske and colleagues have so far half developed a prototype intelligent fridge poetry magnet system and are hoping to get more ideas at the Sydney conference.
+And they're not just interested in generating another product for the consumer market.
+This is a "whimsical and accessible" way to contribute to the study of developing intelligent robots, says Proske.

@@ -1,0 +1,24 @@
+Gamma-ray bursts like this are among the few things energetic enough to be seen from such a distance
+The discovery of the most distance and ancient stellar explosion has now been confirmed and pushed back another 100 million light-years to 12.8 billion light-years away. 
+The explosion, known as GRB 050904, took place when the universe was a relatively youthful 900 million years old. 
+The fatal stellar scream, beamed from a giant star as it collapsed to make a black hole, contains direct clues to what the universe was like so long ago. 
+A gamma-ray burst, or GRB, is one of the few things in the universe bright enough to be seen so long and far away. 
+Three separate international teams of astronomers, including observations from Australia's Mount Stromlo and Siding Spring Observatories, describe the GRB in the journal Nature today. 
+Among them is Assistant Professor Daniel Reichart of the University of North Carolina at Chapel Hill.
+He began to suspect his team was seeing something unusual when the researchers detected the afterglow of the blast in infrared light, but could not see it in visible light, as is normally the case.
+The gamma rays were initially detected from the space-borne Swift telescope and burst detector. The rest of the observations were made from earthbound telescopes. 
+"At that point we either had found the most distant burst in the universe, or there was dust in the way," Reichart says. 
+Could it be dust?
+A careful analysis of just which wavelengths of light were missing from GRB 050904 made it clear dust was not the culprit, he explains. 
+"Dust scatters blue light out, but it's much more gradual," says Reichart. 
+GRB 050904's bluer light drops off very suddenly. That's the signature of the light having been stretched out, essentially making it redder (called redshift), over billions of years of travel through an expanding universe. 
+In a way, it's the wavelengths of light that didn't make it across time and space that pegged GRB 050904 as the oldest and furthest star ever seen.
+But the light that did survive the journey has a lot to offer as well.
+"Its attraction lies in what it can reveal about star formation early in the history of the universe," says astrophysicist Dr Enrico Ramirez-Ruiz of the Institute for Advanced Study in Princeton, who writes about the importance of the discovery in the same issue of Nature.
+Because all light, when broken into a spectrum, carries essentially a bar code of the elements that created or influenced it, the light from GRB 050904 could reveal a lot about where and when heavy elements become more common in the early universe. 
+"Distant galaxies are themselves difficult to study because they appear faint and small," Ramirez-Ruiz explains.
+"GRBs will serve not only as signposts to such galaxies, but could be used to study the gradual build-up of heavy elements in them to determine the conversion history of primordial gas into stars." 
+The first generation of stars in the universe was made of hydrogen and helium alone. Heavier elements are made by the most massive stars when they die.
+Even at the colossal distance of 12.8 billion light-years, GRB 050904 is not quite old enough to be among the first generation of stars, say astronomers. 
+That's because large stars that can create GRBs have relatively short lifespans.
+Our Sun, in contrast, is a medium-sized star which, at about 4.5 billion years old, is only middle-aged for its kind.

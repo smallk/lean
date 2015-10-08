@@ -1,0 +1,24 @@
+The nearby supernova 1987A in its dying moments
+Milliseconds before a giant star dies in a spectacular explosion, it hums a note around 'middle C', astronomers say.
+In the April issue of The Astrophysical Journal, Professor Adam Burrows of the University of Arizona and team will report the song that immediately precedes the explosion of a supernova.
+"We were quite sure when we started seeing this phenomenon that we were seeing sound waves, but it was so unexpected that we kept re-checking and re-testing our results," says Burrows.
+Astronomers have long been trying to understand what happens when a supernova, a massive star, collapses and explodes.
+Once it reaches death's door, a supernova's core is so dense that it does not allow energy to escape, and the star collapses inwards towards the core.
+Until now scientists had assumed that the spectacular explosion in a star's dying moments was due to the star's outer shell bouncing back off the core.
+But, says Australian supernova expert Dr Stuart Ryder of the Anglo-Australian Observatory in Sydney, none of the models of exploding supernovae to date have supported this theory.
+Basically the models don't show enough energy coming from the core bounce to overcome the collapsing outer layers.
+"The stuff trying to expand would keep running into the stuff that is still collapsing and it would literally stall the explosion," says Ryder. 
+There have been various attempts to tweak the models, including taking account of  neutrinos, which are emitted from supernovae.
+But scientists found that these subatomic particles also do not provide enough energy to make the models work. The models still stalled before the explosion.
+Sound waves provide missing link
+Burrows and team have now developed computer models to simulate the events of a dying star, from the collapse of the core through to the supernova explosion.
+"Our simulations show that the inner core starts to execute pulsations," says Burrows.
+"They show that after about 500 milliseconds [after the core collapses] the inner core begins to vibrate wildly. And after 600, 700 or 800 milliseconds, this oscillation becomes so vigorous that it sends out sound waves.
+"In these computer runs, these sound waves actually cause the star to explode, not the neutrinos."
+The researchers say typical sound frequencies in the inner core are about 200 to 400 hertz, in the audible range around middle C.
+A million steps
+The new models involve a million steps and simulate the full second between core collapse and explosion. 
+Previous models, which did not take into account sound waves, had only one fifth the number of steps and simulate only the first few hundred milliseconds after core collapse.
+Ryder says Burrows and team could have found the "missing link" in understanding what makes stars explode.
+"It seems that we haven't properly allowed for these sound phenomena in the core of the star when it collapses," he says.
+"This might be like the death knell or the last alarm bell that something bad is about to happen."

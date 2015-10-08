@@ -1,0 +1,91 @@
+###############################################################################
+#                                                                             #
+#                      GENERAL CONFIGURATION DETAILS                          #
+#                                                                             #
+#     Configure DocIndexer to processes Twitter JSON data contained in        #
+#     flat files.                                                             #
+#                                                                             #
+###############################################################################
+
+# [REQUIRED] Specify the full path to the LEAN repository's 'config' folder.
+# This folder contains default stopword and spelling files, among other items.
+# Items in this folder are loaded automatically at startup.
+
+config_path: config
+
+# [REQUIRED] Write the Lucene index to this folder.  If this folder does not
+# exist it will be created.
+
+outdir: tests/test_twitter/index
+
+# [REQUIRED] Specify the analyzer to use.  An analyzer consists of a tokenizer
+# and a chain of zero or more token filters.  The filters perform various
+# transformations on the tokens as they pass down the chain.  The first four
+# analyzers are provided by Lucene and are not customizable; the 'custom'
+# analyzers can be easily altered and recompiled.
+
+# org.apache.lucene.analysis.core.WhitespaceAnalyzer      Split text on whitespace only
+# org.apache.lucene.analysis.standard.StandardAnalyzer    Lucene's default text analyzer
+# org.apache.lucene.analysis.standard.ClassicAnalyzer     Lucene's StandardAnalyzer pre v3.1
+# org.apache.lucene.analysis.en.EnglishAnalyzer           Lucene's English-specific text analyzer
+# analyzers.FormalAnalyzer                                GTRI analyzer for formal documents
+# twitter.TwitterAnalyzer                                 GTRI custom analyzer for Twitter
+
+analyzer: twitter.TwitterAnalyzer
+
+# [REQUIRED] Specify the full path to the root folder of the file tree to be
+# analyzed.  DocIndexer will begin at this root folder and recursively process
+# all documents in supported formats throughout the tree.
+
+indir: data/twitter_test
+
+
+# [OPTIONAL] Specify the absolute path to the user stopword file, if any.
+# Comment the next line to omit the user stopword file.
+
+#user_stopword_file: /Users/richardboyd/user_stopwords.txt
+
+# [OPTIONAL] Specify the absolute path to the user spelling file, if any.
+# Comment the next line to omit the user spelling file.
+
+#user_spelling_file: /Users/richardboyd/user_spelling.txt
+
+###############################################################################
+#                                                                             #
+#                            Boolean flags                                    #
+#                                                                             #
+###############################################################################
+
+# [OPTIONAL] Whether to ignore hashtags, i.e. tokens such as #justinbieber.
+# NOTE: this will ignore only those hashtags identified with the '#' tag by
+# the part-of-speech tagger.  Hashtags used as proper nouns (^) or in other 
+# meaningful ways will be kept.
+
+IGNORE_HASHTAGS: no
+
+# [OPTIONAL] Whether to ignore URLs and e-mail addresses.  Enabling this flag
+# removes all tokens having a 'U' tag.
+
+IGNORE_URLS: No
+
+# [OPTIONAL] Whether to ignore at-mentions, i.e. long strings of numbers that
+# begin with an '@' symbol.  Enabling this flag removes all tokens having an
+# '@' tag.
+
+IGNORE_AT_MENTIONS: No
+
+# [OPTIONAL] Whether to ignore numbers, dates, times, etc.  Enabling this flag
+# removes all tokens having a '$' tag.
+
+IGNORE_NUMERALS: No
+
+# [OPTIONAL] Whether to disable stemming in the CUSTOM_TWITTER analyzer.
+
+DISABLE_STEMMING: No
+
+# [OPTIONAL] Whether to disable all filters in the custom analyzers; if this
+# option is selected, tokenization is the only operation performed on the data.
+# Use this option if you want to see the full set of tokens that emerge from
+# the tokenizer.
+
+DISABLE_CUSTOM_FILTERS: No

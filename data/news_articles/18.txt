@@ -1,0 +1,25 @@
+Nanoparticles may rescue us from the drudgery of cleaning the bathroom
+Cleaning bathrooms could become a chore of the past with new coatings on bench surfaces, tiles and glass that do the job for you, say Australian researchers.
+Professor Rose Amal of the ARC Centre for Functional Nanomaterials and team are developing new coatings they hope will be useful for self-cleaning surfaces in homes and hospitals. 
+"If you can have self-cleaning materials, you can do the job properly without having to use disinfectants and other chemicals," says Amal, based at the University of New South Wales in Sydney.
+Tiny particles of titanium dioxide up to 20 nanometres in diameter are currently used on outdoor surfaces, such as self-cleaning windows.
+These titanium dioxide nanoparticles absorb UVA light, ultraviolet light below 380 nanometres in wavelength.
+This excites electrons and gives the particles an oxidising ability more powerful than chlorine bleach. 
+The nanoparticles can then kill microbes and break down organic compounds from vehicle and industrial emissions into carbon dioxide and water.
+Surfaces coated with the titanium dioxide nanoparticles also have another property, called 'superhydrophilicity' that helps them self-clean. This is when water does not form droplets, but rather runs straight off the surface, washing as it goes.
+Changing the activating light
+But titanium dioxide can only be activated by UVA and this is only present in sunlight, not other sources of light, like indoor light. 
+This means that to date self-cleaning coatings have been limited to outdoor surfaces.
+Amal and team have been modifying titanium dioxide nanoparticles so they can absorb light at higher wavelengths, in the visible spectrum, over 400 nanometres in wavelength.
+They have been doping titanium dioxide nanoparticles with a small amounts of other elements such as iron or nitrogen, in place of titanium or oxygen.
+Lab trials show that glass coated with the new nanoparticles can be activated by visible light from a lamp to kill bacteria Escherichia coli, and degrade volatile organic compounds.
+"If you can coat it onto a shower room, you don't have to clean the shower room that often," says Amal. "Because of the oxidising properties, fungus will also not grow on the surface."
+Outdoor coatings could benefit too
+While Amal says the self-cleaning coatings would be useful on tiles, glass screens and benches in bathrooms and hospitals, she says the nanoparticles could also be used to improve outdoor self-cleaning surfaces.
+UVA only makes up 5% of sunlight, she says, whereas the ability to use visible light would significantly increase the amount of sunlight that could be used.
+"If you use this material outdoors you can utilise more of the sunlight wavelengths," she says.
+Funding so far has been through the Australian Research Council but Amal says her team will be looking for commercial support down the track.
+She expects it will be another year before the nanoparticles will be ready for large-scale production.
+Safety considerations
+Amal says recent concerns about the toxicity of nanoparticles should not apply to those in the self-cleaning coatings because they are chemically glued to surfaces with polyethylene glycol, and so are not free to float in the air.
+"For this particular application I don't think it should be a problem," she says.

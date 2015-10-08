@@ -1,0 +1,26 @@
+The genetic code of marsupials has been documented for the first time with the sequencing of the opossum genome
+The sequencing of the first marsupial genome has allowed researchers to trace the immune system of mammals back to what they've dubbed an ancestral "immune supercomplex".
+And the research suggests that the human immune system in its present form is a surprisingly recent innovation, says Australian evolutionary biologist Dr Kathy Belov from the University of Sydney, who led the international team.
+The grey short-tailed opossum (Monodelphis domestica), found in South America, is the first marsupial to have its genome sequenced.
+The sequencing was done at the Broad Institute in the US and the current research represents the first gene cluster characterised.
+Belov and colleagues from Australia, Europe and the US report their research on the region, known as the major histocompatibility complex (MHC), in the journal Plos Biology today.
+"The research has helped form a picture of what that region would have looked like in ancestral mammals," Belov says.
+That picture shows a central complex of immune genes that have since dispersed and are now scattered around a variety of chromosomes.
+A supercomplex of immunity
+"We're finding that the opossum has a couple of genes in their MHC which aren't in the MHC of other species, and other species have genes in their MHC which aren't in other species," Belov says.
+"By tracing it back we can see that originally there was this big cluster of immune genes ... and over time those genes have moved out of this central complex.
+"It suggests there was one big immune gene supercomplex in a mammalian ancestor.
+"It's a bit like a dinosaur in that we only know that it's around from the fossil evidence."
+Belov will also examine the MHC in the platypus, the first monotreme, or egg-laying mammal, to have its genome sequenced.
+Understanding immune systems will help to conserve vulnerable species, Belov says.
+Mammal evolution
+It's believed that the first monotreme appeared about 210 million years ago and marsupial and placental mammalian lineages separated around 180 million years ago.
+South American and Australian marsupials split about 70 million years ago with the break up of the southern supercontinent Gondwana, and continued to evolve separately.
+Today the South American and Australian groups are about as different as humans and mice, Belov says.
+Belov says birds and other non-mammals have a relatively simple MHC whereas in placental mammals it is much more complex.
+"Marsupial MHC turns out be intermediate," she says.
+This suggests that "there's been some major changes [in the human immune system] that have gone on quite recently and they're probably more recent than a lot of people expected".
+Comparing marsupials
+A project to sequence the genome of Australia's tammar wallaby, being done jointly by the Australian Genome Research Facility and the Human Genome Sequencing Center in the US will complement work on the opossum, says Belov.
+Belov also has an Australian Research Council grant to study the MHC in the tammar wallaby.
+"If we have the tammar wallaby sequence and the opossum sequence we can pretty much predict the sequences of all the other marsupials", she says.

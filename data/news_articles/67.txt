@@ -1,0 +1,17 @@
+Simulation of small satellite galaxies orbiting and falling into a larger one 
+Astronomers have released new evidence to show that a region of stars in our galaxy known as the Arcturus stream is the digested remains of what was once a neighbouring galaxy.
+The evidence is among the first to come from the largest star study to date, with data from 25,000 stars just released at a US astrophysics workshop.
+Dr Quentin Parker of Sydney's Macquarie University and the Anglo-Australian Observatory is head of data management at the international Radial Velocity Experiment, or RAVE, which uses Australia's UK Schmidt telescope.
+Parker says the latest results provide a smoking gun for the argument that the Milky Way is a voracious cannibal that devours its neighbours.
+"We've confirmed the Arcturus moving group as being a star stream, which indicates a disruptive galaxy spiralled into our own," he says.
+"Ours is a large galaxy and it has been eating other galaxies; it's been hungry. We can see what it's eaten by the crumbs that are left over from its meal."
+It's another bit of evidence for the now widely accepted cannibal, or accretion, theory of galactic evolution, Parker says.
+According to this theory, the gravitational pull of large galaxies sucks in smaller ones, making large galaxies like our own a sort of cosmic melting pot.
+Parker says the RAVE measurements show stars in the Arcturus group are travelling at a similar velocity and in a similar direction through space, indicating they were once part of a coherent system.
+"Using ... star velocities it's possible for the first time begin to unravel the way our galaxy is constructed," he says.
+The RAVE study is measuring the speed of a million stars in the Milky Way using radial velocity, or the motion of a star along the line of sight between the telescope and the star.
+The huge scope of the survey has been made possible by the six degree field (6dF) spectrograph on the 1.2 metre UK Schmidt Telescope at the Anglo-Australian Observatory, which can obtain spectroscopic information for up to 150 stars at once.
+The telescope splits light from the stars into a wide spectrum of colours and by looking at specific colours produced by calcium atoms astronomers can work out whether the colours have 'shifted' in the spectrum.
+This enables them to work out aspects of the star's movement.
+"We're looking at the stars in our galaxy and measuring their velocity by measuring how their lines have shifted," Parker says.
+The survey has so far collected information about 90,000 stars and will release data on the remaining 65,000 as it's analysed.

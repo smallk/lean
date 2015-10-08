@@ -1,0 +1,20 @@
+Clusters of magnesium, zinc and copper atoms could be the key to strengthening lightweight metals
+An Australian PhD student has taken the first pictures of clusters of metal atoms, which could be the key to tailor-made alloys that are light, strong, durable and flexible.
+Peter Liddicoat of the  University of Sydney will present the digital images at a microscopy conference in Sydney next month. 
+Liddicoat analysed the atomic structure of a lightweight alloy used in the aerospace industry.
+The alloy is made of aluminium, zinc, magnesium and copper heated to 460∞C before undergoing a rapid hardening process. 
+Hardening involves quenching the alloy in water and then reheating it to 150∞C. After 60 seconds at this temperature, the alloy is twice as hard.
+Although this hardening process has been used for 50 years, Liddicoat says no one knows how it works.
+"Making metal is still a bit of a black art. It's like cooking," he says. "[This work is] just trying to get a bit of science back into it."
+Some time ago, his PhD supervisor, Professor Simon Ringer proposed a theory that small clusters of atoms in the alloy could be responsible for the hardening.
+And Liddicoat is the first to image them.
+First, decompose your alloy
+Liddicoat imaged the clusters using strong electromagnetic fields at very low temperatures to 'decompose' the alloy. 
+"When you decompose this material you actually rip the atoms off one by one," he says. "It's actually a very delicate process."
+A 3D digital image of the alloy and its atoms is then made by computer.
+Liddicoat says he is "pretty excited" to have imaged these clusters and the next step is to confirm that these clusters are responsible for the alloy's hardening.
+He hopes to work out how the atoms arrange themselves by taking snapshots of the alloy over time.
+And he wants to characterise the clusters: the precise combination of atoms that makes them up, the shape of the clusters and how many there are per unit volume of the alloy.
+Tailor-made alloys
+Liddicoat hopes this will one day make it possible to create materials with specific degrees of flexibility, durability and tensile strength.
+"If you understand what they are then ... you might be able to create the conditions to create these things," he says.

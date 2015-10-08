@@ -1,0 +1,12 @@
+Adding another electrode to this ion engine improves fuel efficiency, tests show, promising faster space travel
+A new ion engine that promises to propel spacecraft faster and further is four times more fuel efficient than the best available, scientists say.
+They say the results of recent tests suggest the engine, the Dual Stage Four Grid Thruster (DS4G), would reduce the time for craft to reach Mars or Pluto and beyond.
+Dr Orson Sutherland and team at the Australian National University's Space Plasma Power and Propulsion Group designed and built the engine with the European Space Agency (ESA).
+Sutherland says laboratory tests show the DS4G it is four times more fuel efficient than the best ion engines available and 10 times more fuel efficient than used to propel ESA's SMART-1 Moon mission.
+"The underlying technology has been around for 40 years," he says. "All we did with the DS4G is to add some extra components which basically gave it a 10-fold improvement."
+Sutherland says missions to Pluto and the Kuiper Belt would be "quite easily" made, with trips out beyond the solar system also more feasible.
+"All of that within the working lifetime of a mission scientist," he says.
+Another option is the new engine could help take heavier missions to shorter distances such as the Moon or Mars.
+How it works
+A standard ion engine works by using electrodes to extract ions from plasma, in this case heated xenon gas.
+The ions are focused into beams that accelerate through tiny holes in the electrodes and thrust metres out into space, propelling the spacecraft in the opposite direction.

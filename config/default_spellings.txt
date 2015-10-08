@@ -1,0 +1,269 @@
+###############################################################################
+#                                                                             #
+#                             Common misspellings                             #
+#                                                                             #
+###############################################################################
+
+absence         absense, absance
+acceptable      acceptible
+accidentally    accidentaly
+accommodate     acomodate, accomodate, acommodate
+achieve         acheive
+acknowledge     acknowlege, aknowledge, acnowledge
+acknowledgment  acknowlegment, acknowlegement
+acquaintance    acquaintence, aquaintance
+acquire         aquire, adquire
+acquit          aquit
+acreage         acrage, acerage
+address         adress
+adultery        adultary
+advisable       adviseable, advizable
+aggression      agression, aggresion
+alcohol         alchohol
+allege          alege, allage
+allegiance      allegaince, allegience, alegiance
+almost          allmost
+amateur         amatuer, amature
+amend           ammend
+annually        anually, annualy
+apparent        apparant, aparent
+argument        arguement, arguemant, arguemint
+atheist         athiest
+average         avrage, averege
+awful           awfull, aweful
+because         becuase
+becoming        becomeing
+beginning       begining
+believe         beleive
+bellwether      bellweather
+buoy            bouy
+buoyant         bouyant
+burglar         burgler
+business        bisness, bussiness, bizness, buisness
+camouflage      camoflage, camoflague
+caribbean       carribean
+category        catagory
+caught          cauhgt, caugt
+cemetery        cemetary, cematery
+changeable      changable
+chief           cheif
+colleague       collaegue, collegue
+coming          comming
+commitment      comitment, comitmment, comitmant
+committed       commited, comitted
+congratulate    congradulate
+congratulations congrats, congradulations, congradulations
+conscientious   consciencious
+conscious       concious, consious
+consensus       concensus, consencus, consenssus
+controversy     contraversy
+deceive         decieve
+deductible      deductable, deductuble, deductabel
+definite        definate, definit	
+definitely      definitly, definately
+dependent       dependant, depindant, dependunt
+desperate       desparate
+difference      diffrence
+dilemma         dilema
+disappoint      disapoint
+disastrous      disasterous
+drunkenness     drunkeness
+dumbbell        dumbell
+embarrass      embaras, embarass
+equipment       equiptment
+exceed          excede
+exhilarate      exilerate
+existence       existance, existanse, existanc
+experience      experiance
+extreme         extreem
+fascinating     facinating
+fiery           firey
+fluorescent     flourescent
+following       followign
+foreign         foriegn
+foreword        foreward, forword, forworde
+friend          freind
+fulfill         fullfil
+gauge           guage
+grateful        gratefull, greatful
+guarantee       garantee, garentee, garanty
+guidance        guidence
+harass          haras, harrass, herrass
+height          heigth
+hierarchy       heirarchy
+humorous        humerous
+hygiene         hygene, hygine, hiygeine, higeine, hygeine
+hypocrite       hipocrit, hippocrite
+ignorance       ignorence
+imitate         immitate
+immediately     imediately
+inadvertent     inadvertant, inadvartant, inadvartent
+independent     independant
+indispensable   indispensabel, indispensible, indespensible
+inoculate       innoculate
+intelligence    inteligence, intelligance
+jewelry         jewelery
+judgment        judgement, judgemant, judgmant
+leisure         liesure
+liaison         liason, liasson, liasone
+library         libary, liberry, libry
+license         lisense, licens, lisence
+maintenance     maintainance, maintnance
+medieval        medeval, medevil, mideval, midevil
+memento         momento
+millennium      millenium, milennium
+miniature       miniture
+minuscule       miniscule
+mischievous     mischievious, mischevous, mischevious
+misspell        mispell, misspel
+necessary       neccessary, necessery
+neighbor        nieghbor
+niece           neice
+noticeable      noticable
+occasionally    ocasionaly, occassionally
+occasion        occassion, ocassion, ocasion
+occurred        occured
+occurrence      ocurrance, occurrance, occurance
+omission        ommision, omision
+original        orignal
+outrageous      outragous
+parliament      parliment
+pastime         passtime, pasttime
+perceive        percieve
+perseverance    perserverance, persaverence, perserverence
+personnel       personell, personel
+plagiarize      plagerize
+playwright      playright, playwrite
+possession      posession, possesion
+potato          potatoe
+potatoes        potatos
+precede         preceed, preceede
+prerogative     perogative, perogitive, preragitive
+presence        presance
+privilege       privelege, privlege, privelige
+proceed         procede, proceede, proced
+professor       professer, proffessor
+promise         promiss
+pronunciation   pronounciation
+proof           prufe
+publicly        publically
+quarantine      quarentine
+questionnaire   questionaire, questionnair
+readable        readible
+really          realy
+receipt         reciept
+receive         recieve
+recommend       recomend, reccommend
+reference       referance, refrence
+referred        refered
+relevant        relevent, revelant
+religious       religous, religius
+repetition      repitition
+restaurant      restarant, restaraunt
+rhyme           ryme
+rhythm          rythm, rythem
+secretary       secratary, secretery
+seize           sieze
+separate        seperate, separete, seperat
+sergeant        sargent
+similar         similer
+speech          speach, speeche
+successful      succesful, successfull, sucessful
+supersede       superceed, suparseed
+surprise        suprise, surprize
+tomatoes        tomatos
+tomorrow        tommorrow, tommorow
+twelfth         twelth, twelf
+tyranny         tyrany
+underrate       underate
+until           untill
+upholstery      upholstry
+usable          usible, useable
+vacuum          vaccuum, vacume
+vehicle         vehical
+vicious         visious
+weird           wierd
+welfare         wellfare, welfair
+willful         wilfull
+withhold        withhuld, withold, withhald
+writing         writting, writeing
+
+
+###############################################################################
+#                                                                             #
+#                            Common abbreviations                             #
+#                                                                             #
+###############################################################################
+
+
+abbreviation    abbr, abbr.
+academy         acad, acad.
+adverb          adv, adv.
+altitude        alt, alt.
+anonymous       anon, anon.
+approximately   approx, approx.
+association     assn, assn.
+august          aug, aug.
+avenue          ave, ave.
+banking         bkg, bkg.
+biology         biol, biol.
+boulevard       blvd, blvd.
+building        bldg, bldg.
+captain         capt, capt.
+cathedral       cath, cath.
+centimeter      cm
+chronology      chron, chron.
+clerk           clk, clk.
+commander       comdr, comdr.
+conference      conf, conf.
+congress        cong, cong.
+construction    constr, constr.
+corporal        cpl, cpl.
+corporation     corp, corp.
+december        dec, dec.
+degree          deg, deg.
+department      dept, dept., dpt, dpt.
+dozen           doz, doz.
+especially      esp, esp.
+february        feb, feb.
+foreword        fwd, fwd.
+gallon          gal, gal.
+height          ht, ht.
+hour            hr
+incorporated    inc, inc.
+january         jan, jan.
+judicial        jud, jud.
+kilogram        kg
+kilometer       km
+kilowat         kw
+language        lang, lang.
+manager         mgr, mgr.
+manufacturing   mfg, mfg.
+mile            mi
+milligram       mg
+minute          min
+miscellaneous   misc, misc.
+mountain        mt, mt.
+negative        neg, neg.
+november        nov, nov.
+october         oct, oct.
+percent         pct, pct.
+quart           qt, qt.
+quarter         qr, qr.
+quotation       quot, quot.
+release         rel, rel.
+river           riv, riv.
+school          sch, sch.
+september       sept, sept.
+sergeant        sgt, sgt.
+series          ser, ser.
+superintendent  supt, supt.
+teaspoon        tsp, tsp.
+territory       terr, terr.
+ultimate        ult, ult.
+university      univ, univ.
+usually         usu, usu.
+versus          vs, vs., v, v.
+volume          vol, vol.
+yard            yd
+

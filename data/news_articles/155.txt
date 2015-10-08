@@ -1,0 +1,27 @@
+The H5N1 bird flu virus doesn't lock onto the right receptors in humans, says new research
+Virologists say they understand why bird flu in its present form does not spread among humans.
+The finding suggests the world may have a precious breathing space to prepare for any flu pandemic. 
+The reason lies in minute differences to cells located in the top and bottom of the airways, the team reports in today's issue of the journal Nature.
+To penetrate a cell, the spikes that stud an influenza virus have to be able to bind to the cellular surface. 
+The virus spike is like a key and the cell's docking point, called a receptor, is like a lock. They both have to be the right shape for the connection to happen. 
+Scientists in the US and Japan, led by Professor Yoshihiro Kawaoka of the University of Wisconsin at Madison, found that avian influenza viruses and human influenza viruses home in on slightly different receptors.
+The receptor preferred by human flu is more prevalent in cells in the mucous lining of the nose and sinus as well as the throat, trachea and bronchi.
+But the receptor preferred by bird flu tends to be found among cells deep in the lung, in ball-like structures called the alveoli. 
+It means H5N1 is likely to hole up in a part of the airways that does not cause coughing and sneezing, the means by which the flu virus is classically transmitted among humans.
+Birds infecting humans
+Bird flu is lethal to poultry and dangerous for humans in close proximity to infected fowl. It has claimed more than 100 lives, according to the World Health Organization. 
+But, apart from a few anecdotal cases, the mortality has occurred exclusively by direct transmission from birds to humans and not among humans themselves. To acquire that contagiousness would open the way to a pandemic. 
+"Our findings indicate that H5N1 virus ... can replicate efficiently only in cells in the lower region of the respiratory tract, where the avian virus receptor is prevalent," the paper says. 
+"This restriction may contribute to the inefficient human-to-human transmission of H5N1 viruses seen to date." 
+So what would turn H5N1 into a pandemic virus?
+First and foremost, it would need mutations in the spike, the haemagglutinin molecule, to enable the virus to bind to cells in the upper respiratory tract. 
+This would enable the virus to spread via coughs and sneezes and nasal mucus, which are caused by irritation to the upper airways. 
+To boost its pandemic potential, the virus also needs changes in its PB2 gene, which controls an enzyme essential for efficient reproduction. 
+"Nobody knows whether the virus will evolve into a pandemic strain, but flu viruses constantly change," says Kawaoka. 
+"Certainly, multiple mutations need to be accumulated for the H5N1 to become a pandemic strain." 
+The findings suggest scientists and public health agencies may have more time to prepare for an eventual pandemic of avian influenza, the team believes. 
+Kawaoka's team exposed various tissues from the human respiratory tract to a range of viruses in lab dishes. 
+The viruses were the human strains H1N1 and H3N2 and the bird strains H3N2 and H4N6. In addition, there were two H5N1 samples, one taken from a human victim in Hong Kong and one from a duck in Vietnam. 
+Flu viruses reproduce sloppily, which induces slight changes in their genetic code. This movement is called antigenic drift, and explains why seasonal flu viruses keep changing and new updated vaccines are needed. 
+But they can also make big changes, called antigenic shift, in which new genes are brought in, thus creating a new pathogen against which no one has immunity. A novel flu virus that emerged after World War I killed as many as 50 million people. 
+By closely monitoring viruses from people infected with avian flu, scientists can get a early warning as to whether these strains are mutating into forms that will make it easier to fit into human receptors, Kawaoka says.

@@ -1,0 +1,7 @@
+#occupywallstreet
+#ows
+clear
+nypd
+park
+police
+protest

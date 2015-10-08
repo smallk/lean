@@ -1,0 +1,24 @@
+Adding an immune system booster to diluted vaccines may mean a little vaccine goes a long way
+Much smaller doses of vaccines may be needed to combat outbreaks of bird flu, tuberculosis and SARS than once thought, Canadian research shows.
+The research by a team at the University of British Columbia could mean more shots will be available. 
+The team led by Professor Wilfred Jefferies says standard doses can be reduced 100-fold and still be safe by adding an immune system booster commonly found in the human body. 
+The study shows that when the immune system booster is added at low doses to vaccines and injected into mice exposed to rabies, measles and smallpox, an immune response kicks in to protect them from infection. 
+The so-called TAP molecules deliver peptides inside cells from the body's immune system or vaccines.
+If this transporter is switched off, as in cancerous cells, disease fighters cannot be moved where they need to go within the cell to do their job. 
+The results of the seven-year study were published in a recent issue of the journal PLoS Pathogens. 
+"This new paradigm is shown to be applicable to many viruses, including poxviruses, and could significantly advance the creation of new vaccines and improve those that already exist," the scientists say.
+This could prove especially important if the H5N1 bird flu, expected by many to be the next worldwide pandemic, begins to pass between humans. 
+What happens in a bird flu outbreak?
+Bird flu has killed some 85 people since emerging in Asia in 2003. Experts say it could kill millions if it mutates into a form easily passed between humans.
+It could take up to six months to develop a vaccine should human-to-human transmission occur. With smaller dose sizes, a hundred times more vaccine shots could be made within the same period of time. 
+"We're hoping it will be incorporated into a number of different vaccines," says Jefferies. "It's powerful because we think it can make general vaccines much better." 
+Smaller doses will also make some vaccines, including that for smallpox and anthrax, less toxic and therefore better tolerated by those with weaker immune systems, Jefferies says. 
+HIV patients, in particular, could benefit, as well as up to an estimated 20% of the population who react badly to vaccines.
+"Some pathogens don't currently have effective vaccines," says co-author Timothy Vitalis. "I hope the technology can be used to solve some of the needs in controlling infectious diseases." 
+How do you boost a vaccine?
+Jefferies first imagined the possibility of this application for vaccines after noticing that TAP is turned off in cancer cells, meaning that the body's natural immune defense does not recognise that it needs to attack these cells.
+He found that when TAP was added to the cancerous cells the immune system suddenly 'switched on' and fought back. 
+"TAP is a key molecule in the creation of immune responses," says Jefferies. "This molecule fought viruses when it was found in normal amounts in the cell. I thought, 'If a little bit is good, is a lot [of TAP] even better?" 
+Researchers say they are not sure why the TAP molecules are turned off in cancer cells, but hope further study may eventually lead to a new cancer treatment too. But that is still years away. 
+Jefferies says the team is currently trying the method out with prototype vaccines that could lead to clinical trials in the next two years, depending on funding. 
+The research was primarily funded by the Canadian Institutes of Health Research.

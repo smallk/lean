@@ -1,0 +1,18 @@
+Researchers have developed a working interface between living tissue and silicon chips
+European researchers have 'glued' live nerve cells onto a silicon chip and managed to get the neurones and chip to talk to each other.
+The technology, which used networks of rat neurones grown in culture, could lead to the creation of 'neural prostheses' or the creation of 'organic computers' powered by living neurones, the team says.
+The Italian, German and Swiss team says it took a lot of effort to develop a working interface between the living cells and the chip's inorganic compounds.
+"We attacked the problems using two major strategies, through the semiconductor technology and the biology," says molecular biologist Professor Stefano Vassanelli from the University of Padua.
+The team, which is being funded by the European Commission's Information Society Technologies program, put 12,384 transistors and hundreds of capacitors on a 1 millimetre square chip.
+Then the reserearchers used proteins found in the brain to 'glue' the neurones to the chip, Vassanelli says.
+The proteins also act as a link between the ion channels of the neurones and the semiconductors, allowing neural signals to be passed to the chip.
+In the opposite direction, the chip's capacitors stimulated the neurones, causing them to 'fire'.
+Vassanelli says the team's next project is to work out how chips could communicate with genes and vice versa.
+"Genes are where memory comes from and without them you have no memory or computation," he says.
+"We want to explore a way to use genes to control the neurochip."
+Keeping neurones alive
+Professor Ashley Craig, an Australian neuroscientist with the University of Technology, Sydney, says linking computer circuits with brain cells can kill neurones by interfering with the brain's fragile chemical and electrical balance.
+And linking chips with genes may be an option.
+Commenting on the European proposal, he says targeting genes instead would enable the chip to communicate with a network of cells.
+"Genes contain the memory and knowledge of building things, growth and regrowth," he says.
+"They would target a particular gene, maybe heart disease or addiction, and link it to a computer chip tucked away under your skin, and try and influence [gene communication]."

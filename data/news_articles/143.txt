@@ -1,0 +1,12 @@
+Long, single strands of DNA, plus strengthening shorter strands, were used to make this image
+A nanotechnologist has created the world's smallest and most plentiful smiley, a tiny face measuring a few billionths of a metre across assembled from strands of DNA.
+Dr Paul Rothemund at the California Institute of Technology can make 50 billion smileys, each a thousand times smaller than the diameter of a human hair, with his technique.
+DNA has long been known for its versatility as a microscopic building block. 
+The molecule can be 'cut' using enzymes and reassembled using matching rungs in its double-helix structure.
+This theoretically opens the way to making DNA quantum computers and nano-level devices including injectable robots that can monitor the body's tissues for good health. 
+But, until now, nano-assembly has been a complex atom-by-atom procedure that is also costly, because it is carried out in a vacuum or at extremely coldly temperatures. 
+Rothemund, writing in today's issue of the journal Nature, describes a far simpler and much cheaper process in which long, single strands of DNA can be folded back and forth to form a basic scaffold. 
+The basic structure is then supplemented by around 200 shorter strands, which both strengthen it and act rather like pixels in a computer or TV image, thus providing a shape that can bear a complex pattern. 
+In a potent demonstration of his so-called DNA origami technique, Rothemund has created half a dozen shapes, including a five-pointed star, a snowflake, a picture of the double helix and a map of the Americas in which one nanometre represents 120 kilometres. 
+Rothemund has been working on flat, two-dimensional shapes but says that 3D structures in DNA should be quite feasible with this technique.
+One application would be a nano-scale 'cage' in which pharmaceutical researchers, working on novel drugs, could sequester enzymes until they were ready for use in turning other proteins on and off.

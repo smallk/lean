@@ -1,0 +1,27 @@
+Existing remote telecommunication networks are struggling to cope with today's internet traffic, according to one expert. So how about a new de-centralised network?
+Remote communities could access cheaper wireless broadband services than their city cousins via new-generation mobile phones and computers, say Australian researchers.
+The devices could also be part of local community telecommunication networks independent of major centralised networks, the researchers add.
+Dr Mehran Abolhasan of the University of Wollongong is heading a team that will trial the new technology in a remote Western Australian community later this year.
+"Remote communities still rely on outdated technologies and very low-capacity networks that are not really able to provide today's internet traffic," says Abolhasan, a telecommunications and computer engineering expert.
+One of the main reasons for this is the enormous cost of rolling out links to the latest communications hubs in the cities.
+And the low population in remote areas means the return on investment is quite low.
+So despite government subsidies, in Australia for example, remote communities have to pay more to get access to telecommunications than people in the city and they are often the least likely to be able to afford it.
+Ad hoc networks
+Abolhasan hopes he has a low-cost alternative to providing up-to-date telecommunications to remote communities.
+His team is developing new software and hardware that can run what are called ad hoc networks.
+The key components of the networks are small portable computer devices, such as PCs or mobile phones that can transmit as well as receive microwave signals.
+Their ability to transmit means that, as well as being a PC or mobile phone, the devices can act as nodes in a communication network.
+And if they are put on top of towers they can transmit messages over long distances, especially when a number of them are linked in a chain.
+Ad hoc networking is cheap because of the low cost of the technology that enables wireless communication between different units, says Abolhasan, and because much of the open source software is already freely available.
+"[Remote] communities would have access to a broadband-type service for a very low price," he says, "cheaper than current broadband services in the city."  
+He says ad hoc networks have another advantage because they are not centralised and if devices break down they can communicate with other units and re-route messages.
+Extending existing networks
+Abolhasan says ad hoc networking can extend the range of existing infrastructure.
+For example, if a remote community has a central building with access to a satellite network, it can extend the satellite network to individual homes.
+The technology could also be used to enable communications within a community. For example people could run their own broadband television station from the local community centre.
+"You can have a community private network without going through any infrastructure," says Abolhasan.
+The main research challenge is to increase the capacity of the technology, which at the moment is unable to service large numbers of people at the same time, he says.
+The team plans to trial ad hoc networking in an Indigenous community in Western Australia in the second half of this year.
+"If it works in outback Australia, it should work just about anywhere," says Abolhasan.
+He says ad hoc networks don't need much power and could run on solar power. He expects the technology to be available in the next three to five years.
+The project is funded by the Desert Knowledge Co-operative Research Centre in Alice Springs.

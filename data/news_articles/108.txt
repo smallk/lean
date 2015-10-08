@@ -1,0 +1,15 @@
+Brain implants may turn sharks into underwater spies, says the US military
+The Pentagon is funding research into neural implants with the ultimate hope of turning sharks into 'stealth spies' capable of gliding undetected through the ocean, a report says.
+The research, outlined in this week's issue of New Scientist builds on experimental work to control animals by implanting tiny electrodes in their brain, which are then stimulated to induce a behavioural response. 
+"The Pentagon hopes to exploit sharks' natural ability to glide quietly through the water, sense delicate electrical gradients and follow chemical trails," says the report.
+"By remotely guiding the sharks' movements they hope to transform the animals into stealth spies, perhaps capable of following vessels without being spotted." 
+The project is being funded by the Pentagon Defense Advanced Research Projects Agency (DARPA).
+Scientists involved in the scheme presented their work last week at a meeting on Ocean Sciences in Honolulu, Hawaii, the report says.
+A team at Boston University has implanted electrodes into the brain of a spiny dogfish in a shallow tank. 
+The implants, controlled by a small radio transmitter, stimulate either the right or left side of a brain area dedicated to smell, causing the fish to flick around in that direction in response to the signal. 
+The next step will be to take this device outside the laboratory. Blue sharks implanted with the gadget are to be released off the coast of Florida. 
+As radio signals will not penetrate the sea, communications with the fish will be made through US Navy acoustic towers capable of sending sonar signals to a shark up to 300 kilometres away. 
+Other DARPA-funded researchers are working on using implants to record brain activity in sharks to understand which neurons are fired by scents, electrical or magnetic fields. 
+These signals help the fish to navigate and offer the reward of food, and could thus in theory be manipulated for surveillance work. 
+New Scientist says the DARPA work is controversial, but also points out that work with animal implants also has a potential benefit for medicine. 
+Understanding more about the brain's electrical signals could one day result in implants to control a prosthetic limb to overcome paralysis, the report says.

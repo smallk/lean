@@ -1,0 +1,35 @@
+Is the court making different rules for copyright protection in the online world?
+Record companies are being given the power to veto the design of new digital communication technologies, say advocates of online civil liberties.
+The claim, by Electronic Frontiers Australia (EFA), comes on the eve of an appeal against a landmark ruling last year against providers of the internet file-sharing software Kazaa.
+Kazaa is one of a number of free software packages that allow people to swap files over the internet.
+Record companies complain that such peer-to-peer file-sharing software leads to people illegally downloading their copyrighted music.
+And last year they took the providers of Kazaa software to the Federal Court of Australia.
+The court found the providers guilty of "authorising" copyright infringement by encouraging millions of users to download music from artists ranging from Powderfinger and Radiohead to Christine Anu and Robbie Williams.
+The court also ordered the providers of Kazaa to modify the software to contain filters that would make it difficult for users to search for copyrighted works specified by the record companies.
+On Monday 20 February, the providers of Kazaa will appeal against this decision. And the EFA, with the New South Wales Council for Civil Liberties and the Australian Consumers' Association, is applying to take part in the appeal.
+EFA is also worried that this Kazaa ruling could one day lead to email providers inappropriately monitoring, filtering or blocking messages.
+Concerns
+Record companies focus on the illegal uses of peer-to-peer file-sharing software. But EFA is worried last year's Kazaa ruling, and the order to modify the software, will hinder people who want to use it legally.
+It says filtering may catch files that are not infringing copyright, for example music already in the public domain or music deliberately distributed free by independent music groups.
+And EFA also doesn't think record companies should be able to control the design of new digital communication technologies.
+"If this type of precedent is allowed to stand," says EFA vice-chair, Dale Clapperton, "it's essentially going to give the record labels a veto power over the development of new technology."
+The Australian Recording Industry Association (ARIA) disagrees.
+"No-one who read the judgement could form this view," an ARIA spokesperson says. "The operators of Kazaa did not even suggest this."
+ARIA also rejects claims that filters will stop legitimate downloads.
+"A well-constructed filter that targets infringing files will have no effect on legitimate files on the Kazaa system," the ARIA spokesperson says.
+A new precedent
+Clapperton says last year's Kazaa ruling shows the court is treating online copyright infringement in a different way to past infringements.
+He says when a court first found an Australian university library guilty of authorising copyright infringement by allowing students to photocopy books, it ruled that libraries should put up warning signs.
+"The court didn't ban the photocopiers, it didn't order that the photocopiers should be modified to reduce the potential that they be used for infringing purposes," says Clapperton.
+Similarly, he says, video recorder were not banned when movie studios complained that they could be used to infringe copyright when taping television programs.
+"If they'd succeeded, we wouldn't have [video] machines today and we would almost certainly not have things like iPods."
+Stifling innovation?
+EFA says it's early days for digital communication software, and if providers are made responsible for how their product is used this could reduce competition.
+"You could end up with a situation where the only people who produce products are the ones already tied in with the music labels," says Clapperton.
+"It really is going to stifle the development of new technologies."
+ARIA rejects these claims.
+"There is no evidence that there is any reduction in competition or innovation following the decision," says the spokesperson. "The opposite has happened with the launch of many more digital download services including iTunes."
+Other possible impacts?
+EFA chair Matt Black is adamant the Kazaa case should be overturned because the precedent could affect email providers, instant messaging and even Google.
+Black says software like Gmail has the capacity for large files to be transferred via the internet and if the principle of the Kazaa ruling is applied here, you may see Google, which runs Gmail, filtering email.
+"Then you're looking at a situation where very important communications are being monitored, filtered and potentially blocked inappropriately by your email provider."

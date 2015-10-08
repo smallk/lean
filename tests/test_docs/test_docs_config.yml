@@ -1,0 +1,89 @@
+###############################################################################
+#                                                                             #
+#                      GENERAL CONFIGURATION DETAILS                          #
+#                                                                             #
+#     Configure DocIndexer to processes documents in a directory tree.        #
+#                                                                             #
+###############################################################################
+
+# [REQUIRED] Specify the full path to the LEAN repository's 'config' folder.
+# This folder contains default stopword and spelling files, among other items.
+# Items in this folder are loaded automatically at startup.
+
+config_path: config
+
+# [REQUIRED] Write the Lucene index to this folder.  If this folder does not
+# exist it will be created.
+
+outdir: tests/test_docs/index
+
+# [REQUIRED] Specify the analyzer to use.  An analyzer consists of a tokenizer
+# and a chain of zero or more token filters.  The filters perform various
+# transformations on the tokens as they pass down the chain.  The first four
+# analyzers are provided by Lucene and are not customizable; the 'custom'
+# analyzers can be easily altered and recompiled.
+
+# org.apache.lucene.analysis.core.WhitespaceAnalyzer      Split text on whitespace only
+# org.apache.lucene.analysis.standard.StandardAnalyzer    Lucene's default text analyzer
+# org.apache.lucene.analysis.standard.ClassicAnalyzer     Lucene's StandardAnalyzer pre v3.1
+# org.apache.lucene.analysis.en.EnglishAnalyzer           Lucene's English-specific text analyzer
+# analyzers.FormalAnalyzer                                GTRI analyzer for formal documents
+# twitter.TwitterAnalyzer                                 GTRI custom analyzer for Twitter
+
+analyzer: analyzers.FormalAnalyzer 
+
+# [REQUIRED] Specify the full path to the root folder of the file tree to be
+# analyzed.  DocIndexer will begin at this root folder and recursively process
+# all documents in supported formats throughout the tree.
+
+indir: data/news_articles/
+
+# [OPTIONAL] Specify the absolute path to a 'user' stopword file.  Use this
+# file to give DocIndexer additional stopwords that should be removed from the
+# token stream, but that are not contained in the default stopword list
+# (found in the config folder).  This file can also be used to remove specific
+# tokens that may not be of interest for a given data set.  The file name does
+# not have to be 'user_stopwords.txt'.  To NOT use a user stopword file,
+# comment the following line.
+
+#user_stopword_file: /path/to/user_stopwords.txt
+
+# [OPTIONAL] Specify the absolute path to a 'user' spelling file.  Use this
+# file to give DocIndexer additional spelling corrections that should be
+# performed on the token stream, but that are not contained in the default list
+# of spelling corrections (found in the config folder).  This file can be used
+# to remove or 'normalize' domain-specific slang.  The file name does not have
+# to be 'user_spelling.txt'.  To NOT use a user spelling file,
+# comment the next line.
+
+#user_spelling_file: /path/to/user_spelling.txt
+
+###############################################################################
+#                                                                             #
+#                            Boolean flags (Yes/No)                           #
+#                                                                             #
+###############################################################################
+
+# [OPTIONAL - CUSTOM ANALYZERS ONLY] Whether to discard all tokens tagged with
+# the <NUM> tag by the tokenizer.  
+
+IGNORE_NUMERALS: No
+
+# [OPTIONAL - CUSTOM_FORMAL ANALYZER ONLY] Whether to discard all tokens except
+# those tagged with the <ALPHANUM> tag.  Overrides the IGNORE_NUMERALS option.
+
+IGNORE_ALL_BUT_ALPHANUM: No
+
+# [OPTIONAL - CUSTOM ANALYZERS ONLY] Whether to disable stemming.  Stemming
+# removes characters from selected tokens, which may not be desirable in all
+# scenarios.
+
+DISABLE_STEMMING: No
+
+# [OPTIONAL] Whether to disable all filters in the CUSTOM analyzers.  If
+# this option is selected, tokenization is the only operation performed on the
+# data.  Use this option if you want to see the full set of tokens that emerge
+# from the tokenizer.  This option does not apply to the Lucene-provided
+# analyzers.
+
+DISABLE_CUSTOM_FILTERS: No

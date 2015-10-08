@@ -1,0 +1,22 @@
+Moroccan runner Hicham El Guerrouj's world record will be left in the dust one day, according to a mathematical analysis of times for the men's one mile race
+Athletes could run the mile 18 seconds faster than the current record, according to an Australian mathematician who's gone back over the past hundred years of records.
+Dr Michael Deakin of Melbourne's Monash University  first calculated the absolute limit for the distance 40 years ago when he declared it to be 3 minutes 32 seconds.
+He will tell a meeting of the Australian and New Zealand Industrial and Applied Mathematics group later today that he has since revised the data.
+He now says athletes could run the mile in 3 minutes 25 seconds, much faster than the existing record of 3 minutes 43 seconds set by Morocco's Hicham El Guerrouj in 1999.
+Deakin says more sophisticated computing technology and more records led him to revisit his earlier work.
+"The reason for revisiting [my original study] is twofold," he says.
+"There's a much bigger data set than there used to be and secondly you've got all sorts of computational tools you didn't back then.
+"So I thought I'd give it another run for its money."
+He didn't make any estimate of when, if ever, this new height in athletic performance would be scaled.
+Deakin arrived at the figure using non-linear trend analysis, a branch of statistics commonly used in economic forecasting. 
+"I plot the different records ... and then I drive a trend curve through it ...which cuts out all the ups and downs," he says.
+"The idea of the trend curve is to have a line at the top which more or less always will be achieved, and a line at the bottom which is never to be achieved."
+In the past he's also used the method to estimate calcium in the bodies of dialysis patients and the trajectory of arrows as described in a passage of Ancient Roman poetry.
+A three minute mile?
+The mile, the equivalent of 1609 metres, has been replaced by the 1500 metres but is still common in some countries.
+And although international athletics bodies now only recognise world records for metric distances, they have made an exception for the mile and still keep records today.
+The mile was once famed for the 4 minute barrier which, was thought to be impossible until Englishman Roger Bannister's time of a little over 3 minutes 59 seconds in 1954.
+Speculation has now shifted to the 3 minute barrier, although most experts agree that athletes are unlikely to meet this without some sort of assistance.
+Dr Shane Brun, a senior lecturer in medicine at James Cook University and vice-president of Sports Doctors Australia, says it's almost impossible to predict the bounds of athletic performance.
+But humans will reach a stage where they simply can't get any better without some form of modification, he says.
+"Whether that's through evolution or science or drugs we just don't know," he says.

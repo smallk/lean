@@ -1,0 +1,28 @@
+A circular shape protects certain proteins from being chewed up by enzymes. So could these super-tough proteins be used to deliver drugs?
+Humans appear to have lost what may have been a natural resistance to HIV some 7 million years when our bodies stopped producing particular kinds of protein, an Australian scientist says.
+These circular proteins, called cyclotides, were discovered by Professor David Craik from the University of Queensland and colleagues, about 10 years ago.
+Craik reports new insights into these molecules in the current issue of the journal Science.
+The first cyclotide discovered in mammals, RTD1, was found in rhesus monkeys and when chemically synthesised acts against HIV.
+Craik says humans have the genetic material to produce RTD1 but we don't make it because during evolution we apparently developed a mutation, which put a "stop code" on its production.
+"It seems that somewhere between 7 and 10 million years ago some primates retained this mutation," Craik says.
+"It's an ironic twist of fate because if it wasn't for that mutation you and I would have a gene that would produce a potent anti-HIV agent."
+The discovery could also explain why some people have apparent immunity to HIV, Craik says.
+"There may be some populations that don't have the stop code," he says.
+Help during childbirth
+Craick reported his discovery of the first cyclotide in 1995 after analysing a small circular protein from a medicinal tea given to Congo tribeswoman during childbirth.
+"We discovered that this molecule had a circular backbone and a knotted arrangement ... that made it virtually indestructible," he says. It was completely resistant to enzymes and boiling.
+"We thought it was unusual that a protein could be so stable and that's why we tried to find out the structure."
+Almost all of the 100 or so cyclotides discovered so far have come from plants, animals and bacteria.
+Cyclotides
+His investigations show that while normal proteins are a linear chain of amino acids, cyclotides have "stitched up ends" that protect them from degradation.
+"There are a lot of enzymes around whose job it is to degrade proteins," he says.
+"They target the ends of proteins, and chop away at the ends. 
+"Cyclotides are therefore resistant to degradation because they are joined from head to tail to form a circle."
+Cyclotides are also naturally occurring, compared to other small circular proteins, or cyclic peptides, which have either been physically manipulated in the lab or "arranged" by a chemical interaction in the body.
+Craik says some of these peptides have been identified as promising drug leads but they fall down as medicines because they basically get chewed up by enzymes once they're swallowed. 
+"As far as your body's concerned a protein drug is the same as a piece of steak, all it wants to do is chew it up," he says.
+But natural cyclotides can be toxic.
+Delivering drugs
+Craik says the solution is to chemically engineer cyclotides to remove their toxicity, then graft active peptides onto them, using the construct to deliver drugs.
+"We're engineering out the toxic effects and engineering in the biological activity," he says.
+Craik is working on this principle using plant cyclotides and is currently commercialising a drug for multiple sclerosis.

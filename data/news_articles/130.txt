@@ -1,0 +1,25 @@
+The new technology allows online gamers to talk and listen to others in a crowd
+Online gaming characters will one-day have more realistic voices, say researchers who are working on a system that makes nearby characters sound louder than distant ones.
+The Australian researchers say their technology will also make other forms of communication in the virtual world - whether for work, study or play - more like real life.
+Dr Paul Boustead from the University of Wollongong says this technology will be useful in the gaming world, where players generally communicate by typing text to each other.
+Typing is quite demanding, says Boustead, especially for those involved in some games that can have millions of active players.
+Boustead says the main problem with current 'voice over internet' technology is that it is one-dimensional; there is no relationship between how someone's voice sounds and the position they are at in the virtual landscape.
+But in the new system, a person's voice 'moves' around with their online character.
+This makes it possible to have multiple online conversations going on at the same time. People can get closer to those they want to hear and move away from those they are less interested in hearing.
+"The idea is that you can walk into a virtual crowd," says Boustead.
+"You can talk to people just like in normal life, in real life. And it's quite a comfortable way of communicating with people. People are actually very used to it."
+Immersed in a virtual world
+For games and other virtual reality devices, this means people can become even more immersed in their virtual world.
+"With our system you see through the eyes of your character, you see these other characters which other people are controlling, and you hear them from where they look like they are in the game," says Boustead.
+"So if someone is way up in front you'll hear them just slightly off in the distance in the front," he says. "If they're right up close they'll be loud."
+He says being able to talk to others in a crowd is important for players in computer games where co-operation with a small group within a crowd is crucial to winning. 
+It also means you can focus on the task at hand, rather than typing to communicate in text, says Boustead.
+He says the new technology could also be useful for virtual classrooms where students want to listen to the teacher and then form small discussion groups.
+The technology could be useful for corporate meetings, interactive online conferences or other events, says Boustead.
+"You could have a cocktail party online," says Boustead. "It could be kind of cool."
+Delivering the service
+The main restrictions on voice over internet has been a lack of bandwidth because having numerous voices and information that identifies their location in space involves a lot of data.
+But Boustead says his team has been developing technology that will allow such information to be sent via normal consumer broadband internet.
+The system involves an audio server, which creates 'audio scenes', connected to devices on PCs.
+Telstra has been running a trial using the voice technology with several online computer games over the last few months with a small group of broadband users.
+The research is funded by the Smart Internet Technology CRC.

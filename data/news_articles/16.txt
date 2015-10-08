@@ -1,0 +1,18 @@
+Remote peoples can describe and understand geometrical concepts related to circles, triangles and parallel lines, scientists show. So, is geometry hard-wired in the brain?
+Amazonian hunter-gatherers who lack written language and who have never seen a maths book do well on basic geometry tests, researchers say in a study that suggests geometry may be hard-wired into the brain.
+Adults and children alike showed a clear grasp of concepts such as where the centre of a circle is and the logical extension of a straight line.
+This was despite not having words for these concepts, the researchers report today in the journal Science. 
+Professor Stanislas Dehaene of the College de France in Paris and colleagues tested 14 children and 30 adults of an Amazonian group called the Munduruku, and compared their findings to tests of US adults and children. 
+"Munduruku children and adults spontaneously made use of basic geometric concepts such as points, lines, parallelism, or right angles to detect intruders in simple pictures, and they used distance, angle, and sense relationships in geometrical maps to locate hidden objects," they write. 
+"Our results provide evidence for geometrical intuitions in the absence of schooling, experience with graphic symbols or maps, or a rich language of geometrical terms." 
+Geometry is an ancient field and Dehaene's team postulated that it may spring from innate abilities. 
+"Many of its propositions -- that two points determine a line, or that three orthogonal axes localize a point -- are judged to be self-evident and yet have been questioned on the basis of logical argument, physical theory, or experiment," the researchers write. 
+There was no way the Munduruku could have learned these ideas, they add. 
+"Most of the children and adults who took part in our experiments inhabit scattered, isolated villages and have little or no schooling, rulers, compasses, or maps," they write. 
+"Furthermore, the Munduruku language has few words dedicated to arithmetical, geometrical, or spatial concepts, although a variety of metaphors are spontaneously used." 
+Playing by the rules
+They designed arrays of six images, each of which contained five conforming to a geometric concept and one that violated it.
+"The participants were asked, in their language, to point to the weird or ugly one," the researchers write. 
+"All participants, even those aged 6, performed well above the chance level of 16.6%."
+The average score was nearly 67% correct, identical to the score for US children. 
+"The spontaneous understanding of geometrical concepts and maps by this remote human community provides evidence that core geometrical knowledge, like basic arithmetic, is a universal constituent of the human mind," they conclude.

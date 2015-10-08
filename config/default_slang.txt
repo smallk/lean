@@ -1,0 +1,189 @@
+about           abt, bout
+allow           tllow
+another         nothr, nthr, nutha
+anyone          any1, anyone, ne1
+attention       attn
+average         avg
+bad             baad
+bathroom        bthrm, bthroom
+because         b/c, bcuz, cuz
+been            bn
+before          b4
+being           bng
+between         btwn
+beware          bware
+birthday        bday, b'day
+blog            blogg
+bombed          bombd
+boys            boyz
+boulevard       blvd, blv'd
+break           brk
+broadway        bdwy, brdway, bway
+building        bldg, bldng
+business        biz, bizness, biznes, bidness
+camera          cam
+coming          comin
+committee       cmte, cmtee
+continued       cont'd
+conversation    convo
+could           cld
+department      dept, dep't
+doing           doin
+dollars         $s
+dont            dnt
+double          dbl
+downtown        dwntwn
+eighteenth      18th
+eighth          8th
+eleventh        11th
+especially      esp
+facebook        fb
+father          dad, daddy
+fifteenth       15th
+fifth           5th
+finding         findin
+first           1st, 1rst
+followed        followd
+forever         4ever, 4evar
+forgot          4got
+former          fmr
+forward         fwd
+fourteenth      14th
+fourth          4th
+friday          fri
+from            frm
+front           frnt
+getting         gettin
+girls           girlz
+going           goin
+government      govnt, govt, gov't, gvmnt, gubmint
+graduate        grad
+grandfather     grandpa, granddad
+grandmother     grandma, granny, grannie
+great           gr8
+group           grp
+happening       happenin, hapnin, hap'nin
+have            hv
+heading         headin
+headquarters    hq
+health          hlth
+heavy           hvy
+hours           hrs
+hundredth       100th
+hurting         hurtin
+important       impt
+including       incl, inc'l, inclding
+information     info
+international   intl, int'l
+into            in2, n2
+ipad            i-pad
+iphone          i-phone
+just            jus
+keeping         keepin
+know            kno, y'know
+leadership      ldrshp
+leaving         lvg
+liberty         lbrty
+limited         ltd
+little          lil, 'lil
+longer          longr
+looking         lookin, look'n
+love            luv
+member          mbr
+message         msg
+more            moar
+mother          mom, mommy
+movement        mvement, mvment, mvmnt, mvmt, mvt, move't
+narcotics       narco
+national        natl, nat'l, nat'nl, nt'l, ntl, ntn'l, ntnl
+negro           nig, nigga, nigger, nigro
+never           nevr, nvr
+news            newz, nooz
+next            nxt
+night           nght, nite
+nineteenth      19th
+ninth           9th
+nobody          nbdy, no1
+nothing         nada, nothin, nothng, nuthn, nuttin
+over            ovaa, ovah, ovr
+park            prk
+parkway         pkwy
+people          peopl, ppl
+please          pls
+pornography     porn
+posted          pstd
+president       prez
+previous        prev
+private         prvt
+professor       prof, proff
+program         prog
+promotion       promo
+received        recv'd, recvd
+reporter        rprtr
+return          retn
+retweet         retwt, re-tweet
+retweeted       ret-weeted, rt'd
+retweeting      rt'ing, rt-ing, rting
+right           rght
+saying          sayin
+says            sayz, sez
+second          2nd
+seconding       2nding
+seeing          seein
+seventeenth     17th
+seventh         7th
+shit            shite, shiz, shxt, shyt, sh*t
+should          shd, shld
+sixteenth       16th
+sixth           6th
+someone         some1
+speaker         spkr
+statement       stmnt
+streets         streetz
+stupid          stoopid
+support         spprt
+system          systm
+talking         talkin
+television      tv
+tenth           10th
+thanks          thanx, thnx, thx, tnx
+that            tht
+the             tha
+their           thr
+these           deez
+third           3rd
+thirteenth      13th
+this            ths
+thousands       1000s
+thousandth      1000th
+through         thru
+tiananmen       tian'anmen, tianamen, tianemen
+today           2day
+together        tgthr, 2gether, 2gthr
+tomorrow        2morrow, tmrw, tmw
+tonight         2nite, 2night
+troll           tr0ll
+twelfth         12th
+twentieth       20th
+twitter         twttr
+unbelievable    unfuckingbelievable
+undocumented    undoc
+unknown         unkwn
+until           til, 'til
+usa             u$a, u.s., u.s, u.s.a., u.s.a
+vomit           puke
+walk            wlk
+was             wuz
+week            wk
+weekend         wknd
+what            wat, wht
+where           whr
+wifi            wi-fi
+with            w/, wit
+within          w/in
+without         w/o, w/out
+would           wld
+yesterday       ystdy, ystrdy
+you             ya
+your            ur, thy
+

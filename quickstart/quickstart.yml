@@ -1,0 +1,4 @@
+config_path: ../config/
+outdir: index
+analyzer: org.apache.lucene.analysis.en.EnglishAnalyzer
+indir: data/

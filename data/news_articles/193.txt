@@ -1,0 +1,21 @@
+It's possible to create order by introducing disorder, say researchers who have been working with computer models of swinging pendulums
+Physicists have surprised their colleagues by turning chaos into order.
+US physicists report how a network of interconnected pendulums can be made to swing in sync by being pushed at random times.
+Sebastian Brandt and team at the Washington University in St Louis report their findings in the journal Physical Review Letters.
+The researchers constructed a computer model of an interconnected network of pendulums that swing out of sync when they are pushed at the same time.
+But when the pendulums are pushed at random, they swing in an ordered and synchronised way, the researchers report.
+"The thing that is counterintuitive is that when you introduce disorder into the system - when the [forces on the pendulums] act at random - the chaos that was present before disappears and there is order," says Brandt.
+The researchers say there is much to learn about the role of disorder in complex systems and suggest their work might be relevant to understanding synchronisation of neural activity in the central nervous system.
+Their model system and neurones are both nonlinear, which means that there is no linear relationship between the amount of force applied and the response.
+"When you hear your favourite music twice as loud you don't double the pleasure," says Brandt, explaining how one aspect of the brain, hearing, is nonlinear.
+"This is of course basic research," he says. "But what you can learn from this is that complex systems ... sometimes behave in a very unexpected way, completely opposite to your intuition or expectation."
+Surprising
+Australian physicist Professor Joe Wolfe of the University of New South Wales says the findings are a surprise although not "counterintuitive".
+"It's not really counterintuitive because one's intuition doesn't really work for such systems because they're complicated," he says. "Our intuition is good for dealing with simple things rather than complicated things."
+Wolfe also says the research only has limited applications because the researchers used calculations with specific numbers rather than solving equations made up of symbols such as x and y.
+This means they do not have a solution that can be used to understand every possible case, he says.
+Inspiring a new theory?
+Wolfe says ideally the findings would inspire someone to come up with a general theory to understand what was going on, but he says it is very hard to find mathematical solutions to complicated nonlinear systems.
+And he thinks the idea that the research could help understand neurones is "drawing a long bow".
+"A system of neurones is also a system of nonlinear things that interact in a way that you don't understand and produce sometimes surprising results," says Wolfe.
+"I wouldn't say it's terribly relevant. It's just an interesting observation."

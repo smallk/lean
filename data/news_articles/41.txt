@@ -1,0 +1,25 @@
+This old spacesuit will be tossed out of the International Space Station at the weekend to become a cheap, home-spun satellite. It'll transmit messages back to Earth until its batteries die out, then become space junk
+Three Russian spacesuits are being prepared for a spacewalk at the weekend from the International Space Station, but only two will be coming back inside when the planned six-hour excursion is over. 
+There's no mutiny in the works, though it would be easy to think so after watching what station commander Bill McArthur and flight engineer Valery Tokarev have in mind.
+They'll be tossing the third suit overboard. 
+No one will be inside the free-flying suit. Rather, it is stuffed with old clothes, batteries and a couple of electronics boxes. An antenna is fixed to the suit's helmet.
+Then it becomes a free-flying satellite in orbit around Earth until its batteries die and it becomes orbiting space junk.
+Because its orbit is relatively low, it will be pulled back into Earth's atmosphere within a few weeks or months and be incinerated.
+The being does have a name, SuitSat, and a message, though you will need an antenna and radio receiver to hear it.
+Run by amateurs
+SuitSat is an innovative, budget-free, volunteer effort of an international amateur radio organisation.
+It's equipped with a series of messages that last 30 seconds and a picture that will be continuously transmitted for as long as its batteries hold out. 
+"The idea was brought up at [an amateur radio] symposium in October 2004," says amateur radio operator Lou McFaden of Orlando.
+"At the time we had started figuring out [a project] that we could do that was low enough in power. A Russian representative brought up that [Russian space officials] had been trying to find something more useful for these old suits they had on the station." 
+Just in time
+The project quickly gained momentum, but time was short. With donated equipment and volunteer time, SuitSat was pulled together in a matter of weeks, delivered to NASA, transported to Russia and launched aboard a cargo ship that arrived in September 2005. 
+Its mission is set to begin at the weekend. Thousands of amateur radio buffs are expected to try to pick up SuitSat's transmission during its relatively short lifetime.
+The suit's batteries likely will last only a few days, says McFaden, who built the hardware. 
+SuitSat also contains a CD with hundreds of pictures, artwork, poems and signatures of students worldwide. 
+Project organisers already have their eyes on another Russian spacesuit expected to be decommissioned later this year or in 2007. 
+"We're hoping to be able to do it again," says McFadin. "We already decided some things we want to do on the next one if we get the chance." 
+Tuning in
+SuitSat's signal will be transmitted on 145.990 MHz FM. 
+"All you need is an antenna, the bigger the better, and a radio receiver that you can tune to 145.990 MHz FM," says Frank Bauer with NASA's Goddard Space Flight Center. "A police band scanner or a hand-talkie ham radio would work just fine." 
+A log of people who have made contact will be available on the SuitSat website.
+SuitSat is an outgrowth of the amateur radio project already operating aboard the space station, Amateur Radio on International Space Station, or ARISS.

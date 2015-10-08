@@ -1,0 +1,22 @@
+The same mathematical used to schedule trains are being used to prioritise the allocation of scarce conservation dollars
+Scientists are using mathematical formulae normally used by economists and engineers to work out which of the world's biodiversity hotspots to save first.
+Ecologist and mathematician Professor Hugh Possingham and team at the University of Queensland report their research in today's issue of the journal Nature.
+Since the 1980s, global conservation agencies have identified particular areas around the world that are rich in species but under threat from habitat destruction.
+But there are many such 'biodiversity hotspots' that need attention, and a limited budget to save them.
+Until now, says Possingham, there hasn't been a rational way of prioritising where to act first.
+"Do you act in them all simultaneously? Do you try and pick out three of them? And how long do you spend acting in one before you move to another?"
+Possingham's team has applied mathematical tools regularly used by economists and engineers to find the optimum way to answer these questions.
+"[The tools] run our entire economy, they schedule all the airlines, they schedule all the trains," says Possingham.
+"Any transportation organisation is using optimisation methods to work out which trucks should go where at what times."
+He says in this case the tools are applied to saving as many species as possible.
+"In a sense it's not that much more than third year or fourth year applied maths or economics at university," says Possingham.
+"But the kind of people working in these [conservation] fields often don't have these skills so they often thought about formulating the problem properly."
+Prioritising hotspots
+Possingham's team has developed a method of prioritising hotspots that take into consideration a range of features apart from how many species an area has.
+High priority is given to areas where habitat is fast disappearing, little of the area has already disappeared, and where the cost of conserving habitat is low.
+Another factor that influences the priority given to an area is how likely it is to conserved in the future.
+"If you are going to invest in a place where you're not sure that you'll get the investment, you're not sure the national park will stay a national park, you'd want to get a lot more benefit out of that investment," says Possingham.
+"You're willing to pay higher prices for places that are secure."
+He says this is exactly the same as trade-offs made in the share market, where you expect a higher outcome for high-risk investments and a lower outcome for low-risk ones.
+The team is currently working with Conservation International and The Nature Conservancy to help establish conservation priorities across the globe.
+So far Possingham and team have tested their method on five areas in South East Asia and found that Sulawesi would be a higher priority than Sumatra, Borneo, Java and Malaysia.

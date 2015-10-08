@@ -1,0 +1,17 @@
+This pattern of spirals was made using a computer that analysed someone's voice
+An Australian digital artist is using his voice to design textiles.
+Pierre Proske has developed computer software that translates different frequencies in someone's voice into spiral patterns, producing what he calls 'voiceprints'.
+Proske developed the software while doing his masters in art and technology at Sweden's IT University of Gˆteborg.
+He's used the software to design a pattern inspired by elements of Japanese textiles, a design that appeals to him because of its simple repeated elements.
+"Computer code is very simple and minimalistic, you have these ones and zeros, so I thought it would be good to choose a very minimalistic textile as well."
+The textile is made up of repeated spirals of more or less the same size in a particular dense and fairly regular arrangement (see image below). 
+Proske then scanned one of the spirals into his computer as the basic element in his voiceprint design.
+Next he used the software to analyse the frequency profile of a short sample of a voice.
+"You might get a bunch of low frequencies and some high frequencies depending on what you say and how you say it," he says.
+The software translates the relative amounts of different frequencies of a particular sound into a particular layout of spirals of different sizes.
+Different voice sounds can create different layouts of the spirals, says Proske.
+He says the software could be used to generate patterns for textile and graphic design.
+"The idea is that it is actually meant to be quite accessible. Anybody could use their voice to generate these patterns."
+Proske sees his research as a modern take on old technologies.
+"I'm kind of inspired by the connection of textiles and computers because they have a historical link that goes back to the automation of the loom in the 1800s," he says. 
+Proske says the same punched cardboard cards used to code for textile patterns were later used to program the first computers.

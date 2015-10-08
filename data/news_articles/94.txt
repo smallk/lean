@@ -1,0 +1,28 @@
+Scientists have pinned down the genes responsible for the type of starch found in wheat
+Researchers are making high-fibre wheat using gene silencing technology, but hope to use old-fashioned plant breeding methods to bring it to market.
+They have used a genetic modification (GM) method known as RNA interference, or RNAi, to identify the genes responsible for high fibre.
+But rather than marketing such a GM wheat, they plan to select for plants with the right genetic make up and breed them the conventional way.
+Scientists from Australia's CSIRO and the French-based agricultural biotechnology company Biogemma UK report their findings today in the Proceedings of the National Academy of Science.
+RNAi is a way of changing the expression of particular genes in plants, says author Dr Matthew Morell, a geneticist from CSIRO's Food Futures National Research Flagship.
+The technology involves inserting a fragment of DNA into the wheat, a fragment similar to one of the plant's own DNA sequences.
+This triggers the plant's defence system to search out and destroy the resulting RNA used to make a particular enzyme.
+Usually, this enzyme would convert the starch molecule amylose to amylopectin. But if the gene that produces that enzyme is 'silenced', the wheat is higher in amylose.
+Wheat higher in amylose is harder to digest, which makes it healthier, the scientists say.
+It lowers the rate of blood sugar uptake and increases the passage of fibre into the large bowel, potentially reducing the risk of developing obesity, diabetes and bowel disease.
+There are a number of enzymes that convert amylose to amylopectin and one of the important parts of the research was to identify the critical enzyme that needed to be silenced to give wheat with high-amylose starch.
+The scientists did this by silencing a number of different enzymes in wheat, then testing the resultant starch. 
+Rat tests
+The team then fed the GM wheat to rats and compared its impact to that of standard wholemeal wheat. 
+They report that the rats fed the GM wheat had more bowel contents and a lower bowel pH, indicating better gastrointestinal health.
+The rats' faeces also had increased levels of short-chain fatty acids, which have been associated with a lower risk of colorectal cancer, the researchers say.
+And, says Morell, the high amylose content of the wheat means it is potentially another tool for managing our diet's glycaemic index or GI.
+The old-fashioned way
+The team is not developing high-amylose GM wheat. Rather, it is using the information gained in this experiment to develop an equivalent non-GM variety.
+"People, particularly in our major export markets, are still not accepting GM technology," says Morell. 
+"So the major international wheat producers - countries like Australia, the US and Canada - are not willing to risk those markets at the moment by having GM crops."
+The research so far has told the team the genes that are important in creating a high-amylose wheat. 
+This will give them a shortcut to breeding a new variety using conventional breeding methods.
+A technological shortcut
+He says the new breeding program is already well under way but the details of when the new variety will be ready are commercial-in-confidence.
+The technological shortcut, which cost several million dollars to research, will save decades in developing a high-amylose wheat variety, says Morell.
+Without RNAi, which CSIRO developed about five years ago, scientists would have had to find and combine nine different very rare mutant wheat varieties, he says.

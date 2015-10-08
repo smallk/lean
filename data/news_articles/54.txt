@@ -1,0 +1,21 @@
+Mmm, definitely rage. Computers are learning to recognise your emotions and soothe your stress
+Wouldn't it be great if your computer could recognise when you're frustrated with it and adjust itself to calm you down? Emotion-sensing technology could someday allow a computer to do just that, researchers say. 
+Computer scientist Christian Peter of Germany's Fraunhofer Institute for Computer Graphics and his colleagues are working on a system that collects data about a person's emotional state using sight, sound and touch technology. 
+The system then interprets the information and reacts accordingly. 
+For example, if a computer senses that its user is agitated, it might tone down the background colour of the screen, turn down background music, enlarge or reduce graphics, adjust the flow of information being presented to the user or simply apologise. 
+"With humans, somebody who ignores the feelings of others is not liked as much as somebody who shows some sort of emotional feedback. Why should it be different with computers?" says Peter.
+But sensing emotions from a person is not always easy. 
+Current methods for collecting the data require researchers to wire users with electrodes and monitor their behaviour in a laboratory. 
+Less-obtrusive means, such as using a video to monitor gestures or a recorder to analyse voice, allow the user to behave more naturally. But the data can break down if the person moves too far away. 
+Tuning in to your emotions
+Peter and his team are working on technology that unobtrusively senses a person's emotions while they interact freely with a computer.
+Their latest prototype is a wireless electronic glove that measures heart rate, blood pressure and skin temperature. 
+Peter will be demonstrating the wireless glove at the CeBIT exhibition in Hanover, Germany, in March. 
+"Fraunhofer has been on the leading of edge of innovating," says computer scientist Professor Rosalind Picard of the Massachusetts Institute of Technology.
+Information gathered by the glove is transmitted wirelessly to a base unit, which stores it on a memory card or sends it to a computer database.
+Software written by Peter's team analyses the data and retrieves patterns that indicate certain emotions. 
+Is that anger I'm sensing?
+For example, if a person's heart rate increases quickly and their skin temperature falls below a certain threshold, it may indicate that they are angry.
+A different combination of other variables suggests the person is slightly surprised or very surprised. 
+The Fraunhofer team is also working on technology that will read facial features using an ordinary webcam.
+The goal is to collect all the emotion-indicating information in one database, analyse it in real time and program the computer to respond immediately.

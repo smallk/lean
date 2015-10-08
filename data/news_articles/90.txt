@@ -1,0 +1,23 @@
+Scientists have been inspired by the path of a free-falling ball to work out a crucial step in quantum computing
+What can a quantum computer do? The answer is as simple as watching a ball free-falling under gravity, say Australian physicists.
+They say the maths that describes a falling ball can be used to identify algorithms for quantum computers to work on.
+Mark Dowling and colleagues at the University of Queensland report their argument in today's issue of the journal Science.
+Some problems, like finding the factors of very large numbers, are beyond the capability of normal computers, says Dowling.
+"A simple example would be 15. The factors are 3 and 5," he says. "But if I give you 256 billion nine hundred and whatever and ask you what numbers multiply to give that, that's a hard problem."
+In general, a standard computer will require 10^n steps to find the factors of a number with 'n' digits.
+This means that as a number gets bigger, the number of steps in the algorithm used to solve the problem increases exponentially and it becomes unfeasible to calculate.
+But it is expected that quantum computers will be able to solve such problems more easily, using algorithms that do not have an exponential increase in steps as the number increases.
+Quantum computers are only in their infancy right now, which is why internet commerce can rely on encryption codes based on factoring very large numbers to secure credit card details.
+But as quantum computers mature, not only will this present a challenge for those involved in internet security, researchers will also want to put these powerful computers to more useful work than cracking codes.
+Scientists have been looking for problems, like factoring, which would be suitable for a quantum computer to solve. But so far it's been a difficult task.
+Now the Queensland researchers have found a surprising way of identifying quantum computer algorithms.
+Geometric inspiration
+Dowling and colleagues were inspired by the field of mathematics called Riemannian geometry, which helps to find the shortest path between two points in a curved space.
+Picture a ball at the top of a hill in a hilly landscape about to travel from A to B.
+The quickest path would be for the ball to fall freely from A under gravity, working its way down the hill to B.
+Now imagine the hills are like steps in an algorithm. The bigger the hill, the more steps.
+There may be many possible algorithms that solve a problem, or paths to get from A to B. But the ones with the least number of steps are equivalent to the path taken by the free-falling ball.
+The researchers have found that the maths that describes the path of the free-falling ball can be used to identify algorithms suitable for quantum computer problems.
+"It's a new route to finding problems that a quantum computer can do easily," says Dowling.
+He says there are many problems that standard computers cannot solve and that may be candidates for quantum computing.
+One such problem is the 'travelling salesman problem', which identifies the shortest route for someone visiting a large number of locations.

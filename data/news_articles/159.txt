@@ -1,0 +1,9 @@
+The research behind the 2006 Abel Prize for maths explains how violin strings vibrate
+The world's most prestigious maths prize has been awarded to a Swedish researcher for his work on wave patterns.
+Professor Lennart Carleson of the Royal Institute of Technology in Sweden was awarded the Abel Prize for maths for his work on the Fourier series.
+This says that everything from the vibration of violin strings to the spread of heat through a metal bar can be viewed as sums of simple wave patterns, oscillating sine and cosine waves.
+This led to the branch of maths known as harmonic analysis.
+He also solved the so-called corona problem, which looks at structures that show up around a disc when the disc itself is hidden.
+An example might be the corona of the Sun seen during an eclipse, when it's hidden by the Moon.
+The prize, which is awarded by the Norwegian Academy of Science and Letters, is often described as the 'Nobel' prize for maths.
+The prize rules say it should aim to spur interest in mathematics among children and young people. So far, all winners of the prize have been in their 70s.

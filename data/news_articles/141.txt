@@ -1,0 +1,13 @@
+Supermarket databases could be vulnerable to virus attacks, causing chaos at the checkout
+Cheap radio chips that are replacing the ubiquitous barcode are a threat to privacy and susceptible to computer viruses, scientists say.
+And a deliberate virus attack could potentially cause chaos at airports and supermarkets.
+Researchers at Amsterdam's Free University created a radio frequency identity (RFID) chip infected with a virus to prove that RFID systems are vulnerable despite their extremely low memory capacity. 
+The problem is that an infected RFID tag, which is read wirelessly when it passes through a scanning gate, can upset the database that processes the information on the chip, say the study authors.
+"Everyone working on RFID technology has tacitly assumed that the mere act of scanning an RFID tag cannot modify back-end software and certainly not in a malicious way. Unfortunately, they are wrong," they say.
+"An RFID tag can be infected with a virus and this virus can infect the back-end database used by the RFID software. From there it can be easily spread to other RFID tags."
+As a result, they say, it is possible that criminals or militants could use an infected RFID tag to upset airline baggage handling systems with potentially devastating consequences.
+The same technology could also be used to wreak havoc with the databases used by supermarkets. 
+"This is intended as a wake-up call. We ask the RFID industry to design systems that are secure," says author Professor Andrew Tanenbaum.
+With RFID, anything from shampoo bottles to marathon runners can be tracked using radio tags. 
+Civil liberty groups say RFID could lead to an unacceptable invasion of privacy and argue that airline ticket information could be used by law enforcement agencies and divorce lawyers. 
+Industries in which tracking goods is crucial such as pharmaceuticals, governments, logistics, airlines and manufacturing already use RFID technology.

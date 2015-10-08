@@ -1,0 +1,20 @@
+This exoplanet is 13 times the mass of Earth and is shown here with a hypothetical moon
+A cold, heavy 'super-Earth' has been found orbiting a distant star, using a method that holds promise for detecting faraway planets that closely resemble our own, astronomers say. 
+The planet weighs 13 times as much as Earth and is orbiting a star about 9000 light-years away.
+But instead of circling close to its star, as Earth does, this super-Earth is about as distant from its star as Jupiter and Saturn are from the Sun. 
+An international team of scientists says the new planet probably has a temperature of minus 201&deg;C, making it one of the coldest planets detected outside our solar system. 
+The discovery is billed as a super-Earth because it is thought to be a rocky, terrestrial planet like Earth, even though it is much more massive.
+The planet was detected by astronomers using a project called OGLE, short for Optical Gravitational Lensing Experiment, which looks for changes in light coming from distant stars.
+If another star passes between the faraway star and a telescope on Earth, the gravity of the intervening star acts like a lens and magnifies the incoming light. 
+When a planet is orbiting the closer star, the planet's gravity can add its own distinctive signature to the light. 
+This phenomenon is known as gravitational microlensing, and it has the potential to detect less massive planets than other methods of searching for planets around other stars. 
+Lots of super-Earths
+The OGLE project detected the microlensing event in April; a total of 36 astronomers working with OGLE found the signs of a planet, 9000 light-years away in the direction of the Milky Way's central galactic bulge. 
+A light-year is about 10 trillion kilometres, the distance light travels in a year. 
+Professor Andrew Gould of Ohio State University who heads the planet-hunting group MicroFUN, short for Microlensing Follow-Up Network, says this discovery has two implications. 
+"First, this icy super-Earth dominates the region around its star that in our solar system is populated by the gas-giant planets, Jupiter and Saturn," Gould says.
+"We've never seen a system like this before, because we've never had the means to find them. 
+"And second these icy super-Earths are pretty common. Roughly 35% of all stars have them."
+The researchers report their find on arXiv, a website run by Cornell University.
+In the past decade, scientists have detected some 170 so-called extrasolar planets, using a variety of techniques. The vast majority are gas giant planets like Jupiter that are hostile to life as it is known on Earth. 
+In January, a planet about five-and-a-half times Earth's mass circling a star near the center of the Milky Way was detected using gravitational microlensing.

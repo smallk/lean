@@ -1,0 +1,22 @@
+Scientists have thought of using soil microbes to break down styrofoam into a useful byproduct
+Bacteria that break down styrofoam into 'green' byproducts could be used to make a new kind of biodegradable plastic, new research suggests.
+The method could help reduce the tonnes of petroleum-based plastic waste that makes its way into landfills each year, says Irish research leader Dr Kevin O'Connor, who heads the bioplastic research group at University College Dublin.
+O'Connor and his team's research results will appear in the 1 April issue of the journal Environmental Science and Technology. 
+Scientists have already used microorganisms to break down the kinds of chemical products found in styrofoam.
+But no-one has created a useful plastic byproduct, says Dr Manfred Zinn, a research group leader at EMPA, the materials science and technology lab of the Swiss Federal Institute of Technology. 
+To convert the plastics, O'Connor's team used a strain of soil bacteria known as Pseudomonas putida. 
+In nature, this microorganism lives in the ground, where it feeds on the carbon, nitrogen, hydrogen, and oxygen found in organic matter such as dead plants. 
+Styrofoam, a material made from polystyrene, contains hydrogen and carbon, but not in a form that the bacteria can readily digest. 
+To make the plastic edible, the scientists had to heat it under the process of pyrolysis, which melted the polystyrene at very high temperatures in an oxygen-free environment to break the chemical bonds. 
+No oxygen means no burning and so no emissions. During the process, the polystyrene became liquid styrene, a carbon-based compound that the bacteria can eat. 
+In the lab, the scientists created a growing environment for the bacteria, feeding them all their favourite foods, including nitrogen and oxygen. 
+A steady flow of styrene oil supplied to the bacteria in a fermentor allowed the bacteria to proliferate. 
+After the colony grew to a healthy size, the scientists stopped feeding the bacteria nitrogen. That stimulated the bacteria to begin storing the carbon for use later. 
+Storing carbon is the key
+It turns out that when the bacteria store the carbon, they convert it into a plastic known as polyhydroxyalkanoate, or PHA. 
+PHA is made up of fatty acids that are easily attacked by the bacterial enzymes.
+"PHA is a 100% biodegradable plastic that can be thrown on your compost heap. Bacteria in the compost heap use the plastic as food to grow, so there is no damage to the environment. You can't get greener than that for a plastic," says O'Connor. 
+The compound can also be harvested from the bacteria to make biodegradable plastic goods such as shampoo bottles, credit cards, and medical implants and devices, all of which will fully degrade in the garbage, says O'Connor. 
+"This is a great opportunity to make something better from a recycled material," says Zinn. 
+O'Connor and team know that worldwide, more than 14 million tonnes of polystyrene are produced annually, but are unsure how much investment it would take to build a plant capable of converting the material into PHA. 
+But he says the process works on any petrochemical plastic waste and that fact could open up new areas of exploration for the petrochemical industry.

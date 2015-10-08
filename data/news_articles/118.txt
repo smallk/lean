@@ -1,0 +1,23 @@
+Feeling ticklish?
+Most humans cannot tickle themselves because they anticipate their own actions, which alters their sense of perception, according to a new study.
+Since it is now believed that a breakdown in this anticipation process may underlie the delusions in schizophrenia, the finding may also lead to a better understanding of this mental disorder.
+"It's well known that you can't tickle yourself," says Associate Professor Randy Flanagan, one of the authors of the study published in the latest issue of the journal PLoS Biology.
+"One explanation is that since all the sensations are completely predictable, we do 'sensory attenuation', which reduces our touch perception," says Flanagan, a Canadian psychologist at Queen's University in Ontario.
+"If we try to deal with all the sensory information directed at us at any given time, it's overwhelming. We can't focus attention on crucial changes in our environment that aren't a function of our own motions." 
+Scientists previously speculated that we either filter out unnecessary information after the motion or sensation occurs, or that we predict our own actions.
+This would allow us to mostly ignore unnecessary sensations, such as the feel of our vocal chords while we speak, or the constant tapping of our fingers while typing at a keyboard. 
+Tap, tap
+To determine which of the two mechanisms is at work, the researchers asked 20 right-handed people to tap with one index finger on a force sensor that was sandwiched between the tapping finger and the other hand's passive index finger.
+With each finger tap, the sensor would deliver a tapping sensation to the passive finger. 
+Similar to self-tickling, the test subjects reported that the tap received by the passive finger was weak because they had anticipated the sensation.
+This occurred even when part of the force sensor was removed during surprise trials where the active finger just wound up tapping the air, while the passive finger still received the expected tap. 
+"We are constantly predicting the consequences of our actions," Flanagan says. "When we act on ourselves and on the world around us we predict in real time as we move."
+Hearing voices
+Flanagan also explains that a breakdown in this prediction process could be why people with delusional schizophrenia "hear voices" and mumble to themselves. 
+"If a healthy person murmurs to himself, he knows that he is hearing his own voice," Flanagan says.
+"Now imagine that the person has a deficit in the predictive mechanism. He murmurs and then suddenly hears murmuring but cannot label it as himself. As he tries to make sense of the alien voice, the explanation for it could be quite bizarre, such as thinking it is coming from a wall or the pavement." 
+He is not certain whether some people with schizophrenia can tickle themselves, but since their falsely alien sensations are often accompanied by feelings of fear and paranoia, it is likely that the experience would not be pleasurable. 
+Impressed
+Chris Frith, a professor of neuropsychology and deputy director of the Leopold M&uuml;ller Functional Imaging Laboratory at University College London, says he is "very impressed" by the new study. 
+Both Frith and Flanagan hope that the findings will help people with schizophrenia, which the US National Institute of Mental Health says affects around 51 million people worldwide. 
+"[We need] robust techniques for measuring the magnitude of the [prediction] breakdown. If techniques like the one described in the PLoS Biology paper can be used with patients, then this will have a major impact on diagnosis and the monitoring of the effects of treatment," Frith says.
